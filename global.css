@@ -47,17 +47,28 @@ nav {
 	border: 0px yellow solid;
 	color: white;
 	font-family: "agency_fb", arial ;
+	font-size: 20px;
 	margin: 0;
 	padding: 0px;
 	text-transform:uppercase;
 	z-index: 100;
-	font-family:
 }
 
 nav ul {
 	border: 0px red solid;
 	margin: 0;
 	padding: 0;
+}
+
+nav > ul:first-child {
+	border-top: 1px rgba(61, 61, 61, 1) solid;
+}
+nav > ul > li {
+	border-bottom: 1px rgba(61, 61, 61, 1) solid;
+}
+
+nav > ul > li a {
+	line-height: 50px;
 }
 
 nav li {
