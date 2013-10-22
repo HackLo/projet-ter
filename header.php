@@ -1,5 +1,5 @@
 <header>
-	<div id="divLogo"><a href="index.php"><img src="graphics/logo.png" /></a></div>
+	<div id="divLogo"><a href="index.php"><img src="graphics/logo.png" alt="Culin'R" /></a></div>
 	<nav>
 		<ul id="mainmenu">
         	<li><a href="index.php?page=1">Lire la nouvelle</a></li>
