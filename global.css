@@ -18,7 +18,7 @@ body {
 
 /* ------------------------------ HEADER ------------------------------------- */
 header {
-	background-color: rgba(40, 40, 40, 0.8);
+	background-color: rgba(40, 40, 40, 0.9);
 	height: 100%;
 	position: fixed;
 	top: 0;
@@ -84,7 +84,8 @@ nav #mainmenu li:hover .sousmenu {
 
 /* ---------------------------------- CONTENT --------------------------- */
 #wrapper {
-	background-color: rgba(200, 200, 200, 0.8);
+	background-color: rgba(40, 40, 40, 0.9);
+	color:#FFF;
 	margin: 250px;
 	padding: 24px;
 	width: 400px;
