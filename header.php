@@ -13,7 +13,12 @@
 			</li>
 			<li><a href="index.php?page=20">Et après</a></li>
 			<li><a href="index.php?page=30">Les auteurs</a></li>
-			<li><a href="index.php?page=40">Bonus</a></li>
+            <li><a href="">Bonus</a>
+				<ul class="sousmenu">
+					<li><a href="index.php?page=40">Inspirations</a></li>
+                    <li><a href="index.php?page=41">Recettes du futur</a></li>
+				</ul>
+			</li>
 		</ul>
 	</nav>
 </header>

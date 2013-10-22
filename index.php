@@ -21,14 +21,42 @@
 		<?php 
 			
 			switch ($page) {
-				case 30:
-					include_once("auteurs.php"); 
-					break;
-
-				case 40:
-					include_once("bonus.php"); 
+				case 1:
+					include_once("lire-la-nouvelle.php"); 
 					break;
 				
+				case 10:
+					include_once("synopsis.php"); 
+					break;
+				
+				case 11:
+					include_once("univers.php"); 
+					break;
+					
+				case 12:
+					include_once("les-personnages.php"); 
+					break;
+				
+				case 13:
+					include_once("le-parcours-initiatique.php"); 
+					break;
+						
+				case 20:
+					include_once("et-apres.php"); 
+					break;
+						
+				case 30:
+					include_once("les-auteurs.php"); 
+					break;
+				
+				case 40:
+					include_once("inspirations.php"); 
+					break;
+					
+				case 41:
+					include_once("recettes-du-futur.php"); 
+					break;
+					
 				default:
 					include_once("lorem.php"); 
 					break;

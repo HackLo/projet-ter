@@ -1,0 +1,1 @@
+<div id="wrapper">La nouvelle</div>

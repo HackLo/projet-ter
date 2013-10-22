@@ -1,0 +1,1 @@
+<div id="wrapper">Recettes du futur</div>
