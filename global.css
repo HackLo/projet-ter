@@ -113,14 +113,23 @@ nav #mainmenu li:hover .sousmenu {
 	background-color: rgba(40, 40, 40, 1);
 	color:#FFF;
 	margin-left:270px;
-	padding: 24px;
-	width: 500px;
+	padding: 50px;
+	padding-top:120px;
+	width: 450px;
 	position: absolute;
 	top: 0px;
 	z-index: 150;
 	font-family:arial;
 	font-size:14px;
 	line-height:20px;
+	text-align:justify;
+}
+
+#titrepage{
+	font-family: "agency_fb", arial ;
+	text-transform:uppercase;
+	font-size:30px;
+	margin-bottom:30px;
 }
 
 /* ----------------------------------- FOOTER --------------------------- */
@@ -148,7 +157,3 @@ footer{
 .reseauxsociaux {
 	width:100%;	
 }
-
-
-
-
