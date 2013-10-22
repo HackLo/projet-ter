@@ -92,6 +92,7 @@ nav #mainmenu > li {
 
 nav ul li .sousmenu {
 	background-color: rgba(61, 61, 61, 1);
+	border-image-source: url(degrade.png);
 	border: 0px black solid;
 	display: none;
 	padding: 12px;
@@ -142,6 +143,7 @@ footer{
 	text-align:center;
 	width:230px;
 	padding-bottom:5px;
+	z-index: 30;
 }
 
 .copyright{
