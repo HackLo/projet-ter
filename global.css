@@ -103,8 +103,8 @@ nav ul li .sousmenu {
 	position: absolute;
 	left: 210px;
 }
-nav #mainmenu li:hover {
-	background: rgba(48, 48, 48, 1);
+nav #mainmenu li:hover a:hover {
+	color: rgba(137 ,137, 137, 1);
 }
 nav #mainmenu li:hover .sousmenu {
 	display: block;
