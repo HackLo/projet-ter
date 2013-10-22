@@ -3,7 +3,7 @@
 		$page = $_GET['page'];
 	}
 	else {
-		$page = 0 ;
+		$page = 'accueil' ;
 	}
 ?>
 <!DOCTYPE html>
@@ -21,6 +21,10 @@
 		<?php 
 			
 			switch ($page) {
+				case 'accueil':
+					include_once("lorem.php"); 
+					break;
+
 				case 'lire':
 					include_once("lire-la-nouvelle.php"); 
 					break;
@@ -65,9 +69,9 @@
 					include_once("mentions-legales.php"); 
 					break;
 					
-				/*default:
+				default:
 					include_once("lorem.php"); 
-					break;*/
+					break;
 			}
 		?>
 		<?php include_once("footer.php"); ?>
