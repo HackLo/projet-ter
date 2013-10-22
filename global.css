@@ -68,6 +68,9 @@ nav > ul:first-child {
 nav > ul > li {
 	border-bottom: 1px rgba(61, 61, 61, 1) solid;
 }
+nav > ul > li:hover {
+	background-color: rgba(61, 61, 61, 1);
+}
 
 nav > ul > li a {
 	line-height: 50px;
@@ -93,7 +96,14 @@ nav #mainmenu > li {
 
 nav ul li .sousmenu {
 	background-color: rgba(61, 61, 61, 1);
-	border-image-source: url(degrade.png);
+
+	border-image-source: url("graphics/pique.png");
+	border-width: 34px;
+	-moz-border-image: url("graphics/pique.png") 34 / 34px  stretch;
+	-webkit-border-image: url("graphics/pique.png") 34 / 34px  stretch;
+	-o-border-image: url("graphics/pique.png") 34   stretch;
+ 	border-image: url("graphics/pique.png") 34 / 34px   stretch;
+
 	border: 0px black solid;
 	display: none;
 	padding: 12px;
