@@ -5,7 +5,7 @@
 	Version : 0.1
 ---------------------------------------------------------------------------- */
 body {
-	background-image: url("graphics/monde.jpg");
+	background-image: url("graphics/back2.jpg");
 	background-position: 0px 0px;
 	background-attachment: fixed;
 	margin: 0;
@@ -38,7 +38,7 @@ header #divLogo img {
 
 /* ------------------------------ MENU ------------------------------------- */
 .copyright{
-	color:#FFF;
+	color:rgba(137, 137, 137, 1);
 	font-family:arial;
 	font-size:10px;
 	text-align:center;
