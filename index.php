@@ -57,6 +57,14 @@
 					include_once("recettes-du-futur.php"); 
 					break;
 					
+				case 50:
+					include_once("plan-du-site.php"); 
+					break;
+					
+				case 60:
+					include_once("mentions-legales.php"); 
+					break;
+					
 				/*default:
 					include_once("lorem.php"); 
 					break;*/
