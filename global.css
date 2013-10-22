@@ -4,32 +4,55 @@
 	Date : 07/10/2013
 	Version : 0.1
 ---------------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------------
+                                 TOUT AFFICHAGE
+ -----------------------------------------------------------------------------*/
+ /* ----------------------------- GENERAL ----------------------------------- */
+ body {
+	background-image: url("graphics/back2.jpg");
+	background-position: 0px 0px;
+	background-attachment: fixed;
+	color: white;
+	margin: 0;
+	padding: 0;
+}
 
 /* ----------------------------------- POLICES --------------------------- */
-	@font-face {
-		font-family: 'agency_fb';
-	    src: url('font/agency_fb.ttf');
-	}
+/* Pour ajouter des polices d'éciture via le dossier font. */
+@font-face {
+	font-family: 'agency_fb';
+		src: url('font/agency_fb.ttf');
+}
+
+/* ------------------------------ HEADER ------------------------------------- */
+ header {
+ 	background-color: rgba(40, 40, 40, 1);
+ 	text-align: center;
+ }
+/* ------------------------------ MENU ------------------------------------- */
+ nav {
+ 	color: white;
+ 	font-family: "agency_fb", arial ;
+	font-size: 18px;
+	text-transform:uppercase;
+ }
+
+ nav a {
+ 	color: white;
+ 	text-decoration: none;
+ }
+/* ------------------------------ FOOTER ------------------------------------- */
+ .copyright a {
+	color: rgba(137, 137, 137, 1);
+}
 
 /* ---------------------------------------------------------------------------
-                               AFFICHAGE > 800 PIXELS
+                               AFFICHAGE > 840 PIXELS
  -----------------------------------------------------------------------------*/
+ /* Style pour les affichages supérieur à 840 pixels de large. */
 @media screen and (min-width: 840px) {
-	body {
-		background-image: url("graphics/back2.jpg");
-		background-position: 0px 0px;
-		background-attachment: fixed;
-		margin: 0;
-		padding: 0;
-	}
-
-	.clear {
-		
-	}
-
 	/* ------------------------------ HEADER ------------------------------------- */
 	header {
-		background-color: rgba(40, 40, 40, 1);
 		height: 100%;
 		position: fixed;
 		top: 0;
@@ -39,7 +62,6 @@
 
 	header #divLogo {
 		padding: 24px 0px;
-		text-align: center;
 		width: 100%;
 	}
 
@@ -51,13 +73,9 @@
 	/* ------------------------------ MENU ------------------------------------- */
 	nav {
 		border: 0px yellow solid;
-		color: white;
-		font-family: "agency_fb", arial ;
-		font-size: 18px;
 		margin: 0;
 		margin-top:25%;
 		padding: 0px;
-		text-transform:uppercase;
 		z-index: 200;
 	}
 
@@ -85,10 +103,6 @@
 		list-style-type: none;
 	}
 
-	nav li a {
-		color: white;
-		text-decoration: none;
-	}
 	nav #mainmenu {
 		margin: 0;
 		padding: 0;
@@ -96,7 +110,6 @@
 	nav #mainmenu > li {
 		line-height: 32px;
 		margin: 0;
-		text-align: center;
 	}
 
 	nav ul li .sousmenu {
@@ -171,31 +184,21 @@
 		width:100%;	
 	}
 
-	.copyright a {
-		color: rgba(137, 137, 137, 1);
-	}
-
 	.reseauxsociaux {
 		width:100%;	
 	}
 }
 
 /* ---------------------------------------------------------------------------
-                               AFFICHAGE < 800 PIXELS
+                               AFFICHAGE < 840 PIXELS
  -----------------------------------------------------------------------------*/
+  /* Style pour les affichages inférieur à 840 pixels de large. */
 @media screen and (max-width: 840px){
-	body {
-		background-color: black;
-		color: white;
-	}
 	header {
-		background-color: rgba(40, 40, 40, 1);
-		font-family: "agency_fb", arial ;
-		font-size: 18px;
 		border: 0px red solid;
 		margin-bottom: 12px;
 		position: relative;
-		text-align: center;
+		width: 100%;
 	}
 	header #divLogo {
 		border: 0px yellow solid;
@@ -208,19 +211,11 @@
 		padding: 0;
 		width: 10%;
 	}
-	header {
-		width: 100%;
-	}
 	nav {
 		margin: 0;
 		padding: 0;
 		position: relative;
 		width: 100%;
-	}
-
-	nav a {
-		color: white;
-		text-decoration: none;
 	}
 
 	nav #mainmenu {
@@ -247,7 +242,6 @@
 		list-style-type: none;
 		line-height: 32px;
 		margin: 0;
-		text-align: center;
 		width: 100%;
 	}
 
