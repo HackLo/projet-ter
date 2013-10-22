@@ -24,6 +24,10 @@
 				case 30:
 					include_once("auteurs.php"); 
 					break;
+
+				case 40:
+					include_once("bonus.php"); 
+					break;
 				
 				default:
 					include_once("lorem.php"); 
