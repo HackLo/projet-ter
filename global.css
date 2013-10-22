@@ -16,6 +16,12 @@ body {
 	
 }
 
+/* ----------------------------------- POLICES --------------------------- */
+@font-face {
+	font-family: 'agency_fb';
+    src: url('font/agency_fb.ttf');
+}
+
 /* ------------------------------ HEADER ------------------------------------- */
 header {
 	background-color: rgba(40, 40, 40, 1);
@@ -52,6 +58,7 @@ header #divLogo img {
 nav {
 	border: 0px yellow solid;
 	color: white;
+	font-family: "agency_fb", arial ;
 	margin: 0;
 	padding: 0px;
 	text-transform:uppercase;
@@ -118,3 +125,9 @@ nav #mainmenu li:hover .sousmenu {
 }
 
 /* ----------------------------------- FOOTER --------------------------- */
+
+
+
+
+
+
