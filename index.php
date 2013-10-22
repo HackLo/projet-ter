@@ -57,9 +57,9 @@
 					include_once("recettes-du-futur.php"); 
 					break;
 					
-				default:
+				/*default:
 					include_once("lorem.php"); 
-					break;
+					break;*/
 			}
 		?>
 		<?php include_once("footer.php"); ?>

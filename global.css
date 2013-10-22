@@ -126,6 +126,7 @@ nav #mainmenu li:hover .sousmenu {
 	font-size:13px;
 	line-height:20px;
 	text-align:justify;
+	height: 100%;
 }
 
 #titrepage{
