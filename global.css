@@ -29,6 +29,7 @@ header {
 	position: fixed;
 	top: 0;
 	width: 230px;
+	z-index: 10;
 }
 
 header #divLogo {
@@ -51,7 +52,7 @@ nav {
 	margin: 0;
 	padding: 0px;
 	text-transform:uppercase;
-	z-index: 100;
+	z-index: 200;
 }
 
 nav ul {
@@ -96,16 +97,17 @@ nav ul li .sousmenu {
 	padding: 12px;
 	text-align: center;
 	width: 200px;
+	z-index: 20;
 
 	position: absolute;
 	left: 210px;
-	top: -1px;
 }
 nav #mainmenu li:hover {
 	background: rgba(48, 48, 48, 1);
 }
 nav #mainmenu li:hover .sousmenu {
 	display: block;
+	z-index: 22;
 }
 
 /* ---------------------------------- CONTENT --------------------------- */
@@ -118,7 +120,7 @@ nav #mainmenu li:hover .sousmenu {
 	width: 450px;
 	position: absolute;
 	top: 0px;
-	z-index: 150;
+	z-index: 0;
 	font-family:arial;
 	font-size:14px;
 	line-height:20px;
