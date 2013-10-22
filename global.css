@@ -48,7 +48,7 @@ nav {
 	border: 0px yellow solid;
 	color: white;
 	font-family: "agency_fb", arial ;
-	font-size: 20px;
+	font-size: 18px;
 	margin: 0;
 	padding: 0px;
 	text-transform:uppercase;
@@ -123,7 +123,7 @@ nav #mainmenu li:hover .sousmenu {
 	top: 0px;
 	z-index: 0;
 	font-family:arial;
-	font-size:14px;
+	font-size:13px;
 	line-height:20px;
 	text-align:justify;
 }
@@ -131,7 +131,7 @@ nav #mainmenu li:hover .sousmenu {
 #titrepage{
 	font-family: "agency_fb", arial ;
 	text-transform:uppercase;
-	font-size:30px;
+	font-size:26px;
 	margin-bottom:30px;
 }
 
@@ -149,7 +149,7 @@ footer{
 .copyright{
 	color:rgba(137, 137, 137, 1);
 	font-family:arial;
-	font-size:10px;
+	font-size:9px;
 	line-height:5px;
 	width:100%;	
 }
