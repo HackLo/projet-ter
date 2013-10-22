@@ -10,7 +10,7 @@
 <html>
 	<head lang="fr">
 		<meta charset="utf-8">
-		<title>NOUVELLE</title>
+		<title>Culin'R - Un voyage initiatique à travers la cuisine du futur</title>
 		<meta name="author" content="">
 		<meta name="description" content="">
 		<meta name="keywords" content="">
