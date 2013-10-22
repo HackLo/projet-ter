@@ -39,8 +39,8 @@ header #divLogo {
 }
 
 header #divLogo img {
-	height: 50%;
-	width: 50%;
+	height: 35%;
+	width: 35%;
 }
 
 /* ------------------------------ MENU ------------------------------------- */
@@ -50,6 +50,7 @@ nav {
 	font-family: "agency_fb", arial ;
 	font-size: 18px;
 	margin: 0;
+	margin-top:25%;
 	padding: 0px;
 	text-transform:uppercase;
 	z-index: 200;
