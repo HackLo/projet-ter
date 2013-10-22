@@ -45,7 +45,7 @@ header #divLogo img {
 }
 
 nav {
-	border: 1px yellow solid;
+	border: 0px yellow solid;
 	color: white;
 	margin: 0;
 	padding: 0px;
@@ -54,7 +54,7 @@ nav {
 }
 
 nav ul {
-	border: 1px red solid;
+	border: 0px red solid;
 	margin: 0;
 	padding: 0;
 }
