@@ -1,7 +1,7 @@
 <footer>
 	<div class="reseauxsociaux">
-		<a href=""><img src="graphics/facebook.png" width="28" height="28" /></a>
-		<a href=""><img src="graphics/youtube.png" width="28" height="28" /></a>
+		<a href=""><img src="graphics/facebook.png" alt="Page Facebook Culin'R" width="28" height="28" /></a>
+		<a href=""><img src="graphics/youtube.png" alt="Page Youtube Culin'R" width="28" height="28" /></a>
 	</div>
 	<div class="footer">
 		<p class="copyright">© Copyright 2013 - Master Web Éditorial</p>
