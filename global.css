@@ -45,11 +45,18 @@ header #divLogo img {
 }
 
 nav {
+	border: 1px yellow solid;
 	color: white;
 	margin: 0;
-	padding: 16px;
+	padding: 0px;
 	font-variant:small-caps;
 	z-index: 100;
+}
+
+nav ul {
+	border: 1px red solid;
+	margin: 0;
+	padding: 0;
 }
 
 nav li {
