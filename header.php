@@ -16,8 +16,4 @@
 			<li><a href="index.php?page=40">Bonus</a></li>
 		</ul>
 	</nav>
-	<div>
-    	<p class="copyright">© Copyright 2013 - Master Web Éditorial</p>
-        <p class="copyright"><a href="">Plan du site</a> | <a href="">Mentions légales</a></p>
-	</div>
 </header>

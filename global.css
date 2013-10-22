@@ -43,18 +43,6 @@ header #divLogo img {
 }
 
 /* ------------------------------ MENU ------------------------------------- */
-.copyright{
-	color:rgba(137, 137, 137, 1);
-	font-family:arial;
-	font-size:10px;
-	text-align:center;
-	line-height:5px;
-}
-
-.copyright a {
-	color: rgba(137, 137, 137, 1);
-}
-
 nav {
 	border: 0px yellow solid;
 	color: white;
@@ -99,7 +87,7 @@ nav ul li .sousmenu {
 	width: 200px;
 
 	position: absolute;
-	left: 150px;
+	left: 210px;
 	top: -1px;
 }
 nav #mainmenu li:hover {
@@ -125,8 +113,30 @@ nav #mainmenu li:hover .sousmenu {
 }
 
 /* ----------------------------------- FOOTER --------------------------- */
+footer{
+	position:fixed;
+	bottom:0;
+	left:0;
+	text-align:center;
+	width:230px;
+	padding-bottom:5px;
+}
 
+.copyright{
+	color:rgba(137, 137, 137, 1);
+	font-family:arial;
+	font-size:10px;
+	line-height:5px;
+	width:100%;	
+}
 
+.copyright a {
+	color: rgba(137, 137, 137, 1);
+}
+
+.reseauxsociaux {
+	width:100%;	
+}
 
 
 
