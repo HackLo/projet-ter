@@ -18,7 +18,7 @@ body {
 
 /* ------------------------------ HEADER ------------------------------------- */
 header {
-	background-color: rgba(40, 40, 40, 0.9);
+	background-color: rgba(40, 40, 40, 1);
 	height: 100%;
 	position: fixed;
 	top: 0;
@@ -64,7 +64,7 @@ nav #mainmenu > li {
 }
 
 nav ul li .sousmenu {
-	background-color: gray;
+	background-color: rgba(61, 61, 61, 1);
 	border: 0px black solid;
 	display: none;
 	padding: 12px;
@@ -76,7 +76,7 @@ nav ul li .sousmenu {
 	top: -1px;
 }
 nav #mainmenu li:hover {
-	background: #c7c7c7;
+	background: rgba(48, 48, 48, 1);
 }
 nav #mainmenu li:hover .sousmenu {
 	display: block;
@@ -84,11 +84,11 @@ nav #mainmenu li:hover .sousmenu {
 
 /* ---------------------------------- CONTENT --------------------------- */
 #wrapper {
-	background-color: rgba(40, 40, 40, 0.9);
+	background-color: rgba(40, 40, 40, 1);
 	color:#FFF;
 	margin: 250px;
 	padding: 24px;
-	width: 400px;
+	width: 500px;
 	position: absolute;
 	top: 0px;
 	z-index: 150;
