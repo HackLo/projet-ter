@@ -32,8 +32,8 @@ header #divLogo {
 }
 
 header #divLogo img {
-	height: 70%;
-	width: 70%;
+	height: 50%;
+	width: 50%;
 }
 
 /* ------------------------------ MENU ------------------------------------- */
@@ -42,6 +42,11 @@ header #divLogo img {
 	font-family:arial;
 	font-size:10px;
 	text-align:center;
+	line-height:5px;
+}
+
+.copyright a {
+	color: rgba(137, 137, 137, 1);
 }
 
 nav {
@@ -49,8 +54,9 @@ nav {
 	color: white;
 	margin: 0;
 	padding: 0px;
-	font-variant:small-caps;
+	text-transform:uppercase;
 	z-index: 100;
+	font-family:
 }
 
 nav ul {
@@ -106,6 +112,9 @@ nav #mainmenu li:hover .sousmenu {
 	position: absolute;
 	top: 0px;
 	z-index: 150;
+	font-family:arial;
+	font-size:14px;
+	line-height:20px;
 }
 
 /* ----------------------------------- FOOTER --------------------------- */

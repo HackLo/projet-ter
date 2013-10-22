@@ -1,5 +1,5 @@
 <header>
-	<div id="divLogo"><img src="graphics/logo.png" /></div>
+	<div id="divLogo"><a href="index.php"><img src="graphics/logo.png" /></a></div>
 	<nav>
 		<ul id="mainmenu">
         	<li><a href="index.php?page=1">Lire la nouvelle</a></li>
@@ -18,6 +18,6 @@
 	</nav>
 	<div>
     	<p class="copyright">© Copyright 2013 - Master Web Éditorial</p>
-        <p class="copyright">Plan du site | Mentions légales</p>
+        <p class="copyright"><a href="">Plan du site</a> | <a href="">Mentions légales</a></p>
 	</div>
 </header>
