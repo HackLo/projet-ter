@@ -21,47 +21,47 @@
 		<?php 
 			
 			switch ($page) {
-				case 1:
+				case 'lire':
 					include_once("lire-la-nouvelle.php"); 
 					break;
 				
-				case 10:
+				case 'synopsis':
 					include_once("synopsis.php"); 
 					break;
 				
-				case 11:
+				case 'univers':
 					include_once("univers.php"); 
 					break;
 					
-				case 12:
+				case 'personnages':
 					include_once("les-personnages.php"); 
 					break;
 				
-				case 13:
+				case 'parcours-initiatique':
 					include_once("le-parcours-initiatique.php"); 
 					break;
 						
-				case 20:
+				case 'et-apres':
 					include_once("et-apres.php"); 
 					break;
 						
-				case 30:
+				case 'auteurs':
 					include_once("les-auteurs.php"); 
 					break;
 				
-				case 40:
+				case 'inspirations':
 					include_once("inspirations.php"); 
 					break;
 					
-				case 41:
+				case 'recettes':
 					include_once("recettes-du-futur.php"); 
 					break;
 					
-				case 50:
+				case 'plan':
 					include_once("plan-du-site.php"); 
 					break;
 					
-				case 60:
+				case 'mentions':
 					include_once("mentions-legales.php"); 
 					break;
 					
