@@ -248,7 +248,13 @@
 	nav > ul > li > ul {
 		display: none;
 	}
-	nav > ul > li a:active > ul {
+	nav > ul > li a:focus {
+		color: yellow;
+	}
+	nav > ul > li:hover {
+		background-color: rgba(61, 61, 61, 1);
+	}
+	nav > ul > li:hover > ul {
 		display: block;
 	}
 
