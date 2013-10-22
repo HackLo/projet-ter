@@ -22,7 +22,7 @@ header {
 	height: 100%;
 	position: fixed;
 	top: 0;
-	width: 200px;
+	width: 230px;
 }
 
 header #divLogo {
@@ -37,6 +37,13 @@ header #divLogo img {
 }
 
 /* ------------------------------ MENU ------------------------------------- */
+.copyright{
+	color:#FFF;
+	font-family:arial;
+	font-size:10px;
+	text-align:center;
+}
+
 nav {
 	color: white;
 	margin: 0;
@@ -86,7 +93,7 @@ nav #mainmenu li:hover .sousmenu {
 #wrapper {
 	background-color: rgba(40, 40, 40, 1);
 	color:#FFF;
-	margin: 250px;
+	margin-left:270px;
 	padding: 24px;
 	width: 500px;
 	position: absolute;

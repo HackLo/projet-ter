@@ -17,6 +17,7 @@
 		</ul>
 	</nav>
 	<div>
-    
+    	<p class="copyright">© Copyright 2013 - Master Web Éditorial</p>
+        <p class="copyright">Plan du site | Mentions légales</p>
 	</div>
 </header>
