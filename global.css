@@ -40,6 +40,12 @@
  nav a {
  	color: white;
  	text-decoration: none;
+ 	width: 100%;
+ }
+
+ nav > ul > li > ul {
+ 	margin: 0;
+ 	padding: 0;
  }
 /* ------------------------------ FOOTER ------------------------------------- */
  .copyright a {
@@ -254,8 +260,9 @@
 	nav > ul > li:hover {
 		background-color: rgba(61, 61, 61, 1);
 	}
+
 	nav > ul > li:hover > ul {
-		display: block;
+		/*display: block;*/
 	}
 
 	#wrapper {

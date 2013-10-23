@@ -15,6 +15,7 @@
 		<meta name="description" content="">
 		<meta name="keywords" content="">
 		<link rel="stylesheet" href="global.css">
+		<?php include_once("scripts/scripts.php"); ?>
 	</head>
 	<body>
 		<?php include_once("header.php"); ?>
