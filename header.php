@@ -1,5 +1,7 @@
 <header>
+	<!-- PARTIE LOGO -->
 	<div id="divLogo"><a href="index.php"><img src="graphics/logo.png" alt="Culin'R" /></a></div>
+	<!-- MENU DE NAVIGATION -->
 	<nav>
 		<ul id="mainmenu">
         	<li><a href="index.php?page=lire">Lire la nouvelle</a></li>
