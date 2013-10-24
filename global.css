@@ -9,8 +9,12 @@
  ------------------------------------------------------------------------------------------------------------------------------------------*/
  /* ----------------------------- GENERAL ----------------------------------- */
  body {
-	background-image: url("graphics/bgV1.jpg");
-	background-size: 100% 100%;
+	background: url("graphics/bgV1.jpg") no-repeat center fixed; 
+	-webkit-background-size: cover; /* pour Chrome et Safari */
+	-moz-background-size: cover; /* pour Firefox */
+	-o-background-size: cover; /* pour Opera */
+	background-size: cover;
+
 	background-attachment: fixed;
 	color: white;
 	margin: 0;
@@ -199,7 +203,7 @@ footer{
 		display: block;
 		z-index: 22;
 	}
-	
+
 	nav > ul > li > ul > li:hover > a {
 		color: rgba(137, 137, 137, 1);
 	}
