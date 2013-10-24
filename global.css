@@ -26,9 +26,14 @@
 
 /* ------------------------------ HEADER ------------------------------------- */
  header {
- 	background-color: rgba(40, 40, 40, 1);
  	text-align: center;
  }
+
+header > div {
+	background-color: rgba(40, 40, 40, 1);
+	height: 100%;
+}
+ 
 /* ------------------------------ MENU ------------------------------------- */
  nav {
  	color: white;
@@ -59,7 +64,9 @@
 @media screen and (min-width: 840px) {
 	/* ------------------------------ HEADER ------------------------------------- */
 	header {
+		border-right: 1px rgba(40, 40, 40, 1) solid;
 		height: 100%;
+		padding-right: 4px;
 		position: fixed;
 		top: 0;
 		width: 230px;
