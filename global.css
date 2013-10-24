@@ -27,13 +27,24 @@
 /* ------------------------------ HEADER ------------------------------------- */
  header {
  	text-align: center;
+ 	z-index: 10;
  }
 
 header > div {
 	background-color: rgba(40, 40, 40, 1);
 	height: 100%;
 }
- 
+
+header #divLogo {
+	padding: 24px 0px;
+	width: 100%;
+}
+
+header #divLogo img {
+	height: 35%;
+	width: 35%;
+}
+
 /* ------------------------------ MENU ------------------------------------- */
  nav {
  	color: white;
@@ -52,10 +63,51 @@ header > div {
  	margin: 0;
  	padding: 0;
  }
+/* ------------------------------ WRAPPER -------------------------------------*/
+#wrapper {
+	background-color: rgba(40, 40, 40, 1);
+	color:#FFF;
+	font-family:arial;
+	font-size:13px;
+	line-height:20px;
+	padding: 50px;
+	padding-top:120px;
+	text-align:justify;
+	z-index: 0;		
+}
+
+#titrepage{
+	font-family: "agency_fb", arial ;
+	font-size:26px;
+	margin-bottom:30px;
+	text-transform:uppercase;
+}
+
 /* ------------------------------ FOOTER ------------------------------------- */
+footer{
+		position:fixed;
+		bottom:0;
+		left:0;
+		text-align:center;
+		padding-bottom:5px;
+		z-index: 30;
+	}
+
  .copyright a {
 	color: rgba(137, 137, 137, 1);
 }
+
+.copyright{
+		color:rgba(137, 137, 137, 1);
+		font-family:arial;
+		font-size:9px;
+		line-height:5px;
+		width:100%;	
+	}
+
+	.reseauxsociaux {
+		width:100%;	
+	}
 
 /* ---------------------------------------------------------------------------
                                AFFICHAGE > 840 PIXELS
@@ -70,22 +122,10 @@ header > div {
 		position: fixed;
 		top: 0;
 		width: 230px;
-		z-index: 10;
-	}
-
-	header #divLogo {
-		padding: 24px 0px;
-		width: 100%;
-	}
-
-	header #divLogo img {
-		height: 35%;
-		width: 35%;
 	}
 
 	/* ------------------------------ MENU ------------------------------------- */
 	nav {
-		border: 0px yellow solid;
 		margin: 0;
 		/*margin-top:25%;*/ /* Momentanément enlever pour le responsive */
 		padding: 0px;
@@ -103,9 +143,10 @@ header > div {
 	}
 	nav > ul > li {
 		border-bottom: 1px rgba(61, 61, 61, 1) solid;
+		position: relative;
 	}
 	nav > ul > li:hover {
-		background-color: rgba(61, 61, 61, 1);
+		background-color: rgba(137, 137, 137, 1);
 	}
 
 	nav > ul > li a {
@@ -116,7 +157,7 @@ header > div {
 		list-style-type: none;
 	}
 
-	nav #mainmenu {
+	nav > ul {
 		margin: 0;
 		padding: 0;
 	}
@@ -128,14 +169,6 @@ header > div {
 	nav ul li .sousmenu {
 		background-color: rgba(61, 61, 61, 1);
 
-		border-image-source: url("graphics/pique.png");
-		border-width: 34px;
-		-moz-border-image: url("graphics/pique.png") 34 / 34px  stretch;
-		-webkit-border-image: url("graphics/pique.png") 34 / 34px  stretch;
-		-o-border-image: url("graphics/pique.png") 34   stretch;
-	 	border-image: url("graphics/pique.png") 34 / 34px   stretch;
-
-		border: 0px black solid;
 		display: none;
 		padding: 12px;
 		text-align: center;
@@ -144,9 +177,22 @@ header > div {
 
 		position: absolute;
 		left: 210px;
+		top: -20px;
+	}
+	nav ul li .sousmenu:after {
+		display:block;
+		content: "";
+		height: 0;
+		line-height: 0;
+		border-right: rgba(61, 61, 61, 1) solid 10px;
+		border-top: rgba(255, 255, 255, 0) solid 10px;
+		border-bottom: rgba(255, 255, 255, 0) solid 10px;
+		position: absolute;
+		left:-9px;
+		top: 36px;
 	}
 	nav #mainmenu li:hover a:hover {
-		color: rgba(137 ,137, 137, 1);
+		/*color: rgba(137 ,137, 137, 1);*/
 	}
 	nav #mainmenu li:hover .sousmenu {
 		display: block;
@@ -155,58 +201,30 @@ header > div {
 
 	/* ---------------------------------- CONTENT --------------------------- */
 	#wrapper {
-		background-color: rgba(40, 40, 40, 1);
-		color:#FFF;
 		margin-left:270px;
-		padding: 50px;
-		padding-top:120px;
 		width: 450px;
 		position: absolute;
 		top: 0px;
-		z-index: 0;
-		font-family:arial;
-		font-size:13px;
-		line-height:20px;
-		text-align:justify;
 		min-height: 100%;
-	}
-
-	#titrepage{
-		font-family: "agency_fb", arial ;
-		text-transform:uppercase;
-		font-size:26px;
-		margin-bottom:30px;
 	}
 
 	/* ----------------------------------- FOOTER --------------------------- */
 	footer{
-		position:fixed;
-		bottom:0;
-		left:0;
-		text-align:center;
 		width:230px;
-		padding-bottom:5px;
-		z-index: 30;
 	}
 
-	.copyright{
-		color:rgba(137, 137, 137, 1);
-		font-family:arial;
-		font-size:9px;
-		line-height:5px;
-		width:100%;	
-	}
-
-	.reseauxsociaux {
-		width:100%;	
-	}
+	
 }
 
 /* ---------------------------------------------------------------------------
                                AFFICHAGE < 840 PIXELS
  -----------------------------------------------------------------------------*/
   /* Style pour les affichages inférieur à 840 pixels de large. */
-@media screen and (max-width: 840px){
+@media screen and (max-width: 839px){
+	body {
+		margin: 0 auto;
+		width: 100%;
+	}
 	header {
 		border: 0px red solid;
 		margin-bottom: 12px;
@@ -217,6 +235,7 @@ header > div {
 		border: 0px yellow solid;
 		margin: 0;
 		padding: 0;
+		display: none;
 	}
 	header #divLogo img {
 		height: 10%;
@@ -274,7 +293,7 @@ header > div {
 
 	#wrapper {
 		background-color: rgba(40, 40, 40, 1);
-		padding: 8px;
+		padding: 32px;
 		position: relative;
 	}
 
