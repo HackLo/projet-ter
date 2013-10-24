@@ -1,7 +1,7 @@
 <header>
 	<div>
 		<!-- PARTIE LOGO -->
-		<div id="divLogo"><a href="index.php"><img src="graphics/logo.png" alt="Culin'R" /></a></div>
+		<div id="divLogo"><a href="index.php"><img src="graphics/logo2.png" alt="Culin'R" /></a></div>
 		<!-- MENU DE NAVIGATION -->
 		<div id="blocNavigationPourMobileIn" onclick="expandNav();"><a href="#">NAVIGATION IN</a></div>
 		<div id="blocNavigationPourMobileOut" onclick="unexpandNav();"><a href="#">NAVIGATION OUT</a></div>
