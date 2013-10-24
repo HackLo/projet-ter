@@ -1,0 +1,8 @@
+#Fichier .htaccess : /dossier_no3/
+
+#Options +FollowSymlinks
+#RewriteEngine on
+#RewriteOptions Inherit
+
+#RewriteRule ^index.php?page=lire$ lire.html
+#RewriteRule ^page2.html$ page1.html

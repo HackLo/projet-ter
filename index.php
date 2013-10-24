@@ -32,7 +32,7 @@
 			
 			switch ($page) {
 				case 'accueil':
-					include_once("lorem.php"); 
+					//include_once("lorem.php"); 
 					break;
 
 				case 'lire':
