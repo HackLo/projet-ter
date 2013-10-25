@@ -36,7 +36,9 @@ header {
 	border-right: 1px rgba(40, 40, 40, 1) solid;
  	height: 100%;
 	padding-right: 4px;
+	position: fixed;
  	text-align: center;
+ 	top: 0;
 	width: 230px;
  	z-index: 10;
 }
@@ -120,7 +122,7 @@ nav > ul > li > ul {
 	z-index: 0;		
 }
 
-#titrepage{
+#titrepage {
 	font-family: "agency_fb", arial ;
 	font-size:26px;
 	margin-bottom:30px;
@@ -128,30 +130,31 @@ nav > ul > li > ul {
 }
 
 /* ------------------------------ FOOTER ------------------------------------- */
-footer{
-		position:fixed;
-		bottom:0;
-		left:0;
-		text-align:center;
-		padding-bottom:5px;
-		z-index: 30;
-	}
+footer {
+	position:fixed;
+	bottom:0;
+	left:0;
+	text-align:center;
+	padding-bottom:5px;
+	z-index: 30;
+}
 
- .copyright a {
+.copyright {
+	color:rgba(137, 137, 137, 1);
+	font-family:arial;
+	font-size:9px;
+	line-height:5px;
+	width:100%;	
+}
+
+.copyright a {
 	color: rgba(137, 137, 137, 1);
 }
 
-.copyright{
-		color:rgba(137, 137, 137, 1);
-		font-family:arial;
-		font-size:9px;
-		line-height:5px;
-		width:100%;	
-	}
 
-	.reseauxsociaux {
-		width:100%;	
-	}
+.reseauxsociaux {
+	width:100%;	
+}
 
 /* ----------------------------------------------------------------------------------------------------------------------------------------
                                AFFICHAGE > 840 PIXELS
@@ -159,22 +162,20 @@ footer{
  /* Style pour les affichages supérieur à 840 pixels de large. */
 @media screen and (min-width: 840px) {
 	/* ------------------------------ HEADER ------------------------------------- */
-	header {
-		position: fixed;
-		top: 0;
-		
-	}
+
 
 	/* ------------------------------ MENU ------------------------------------- */
+	/* ---------------------------------------- Style des items du menu principal*/
 	nav > ul > li {
 		position: relative;
 	}
 
-	nav #mainmenu > li {
+	nav > ul > li {
 		line-height: 32px;
 		margin: 0;
 	}
 
+	/* --------------------------------------------------- Style des sous-menus */
 	nav > ul > li > ul {
 		background-color: rgba(61, 61, 61, 1);
 		padding: 12px;
@@ -204,6 +205,7 @@ footer{
 		z-index: 22;
 	}
 
+	/* --------------------------------------- Style des items des sous-menus */
 	nav > ul > li > ul > li:hover > a {
 		color: rgba(137, 137, 137, 1);
 	}
@@ -230,10 +232,15 @@ footer{
  ------------------------------------------------------------------------------------------------------------------------------------------*/
   /* Style pour les affichages inférieur à 840 pixels de large. */
 @media screen and (max-width: 839px){
+	/* --------------------------- BODY MOBILE ------------------------------------ */
 	body {
+		background-image: none;
+		background-color: black;
 		margin: 0 auto;
 		width: 100%;
 	}
+
+	/* --------------------------- HEADER MOBILE ---------------------------------- */
 	header {
 		border: 0px red solid;
 		margin-bottom: 12px;
@@ -252,18 +259,23 @@ footer{
 		padding: 0;
 		width: 10%;
 	}
+
+	/* -------------------- BARRE D'AFFICHAGE DU MENU -------------------------- */
 	#blocNavigationPourMobileIn {
 		display: block;
 	}
 	#blocNavigationPourMobileIn a, #blocNavigationPourMobileOut a {
 		color: white;
 	}
+
+	/* --------------------------- MENU MOBILE ---------------------------------- */
 	nav {
 		display: none;
 		position: relative;
 		width: 100%;
 	}
 
+	/* ---------------------------------------- Style des items du menu principal*/
 	nav ul li {
 		line-height: 32px;
 		margin: 0;
@@ -274,16 +286,19 @@ footer{
 		line-height: 20px;
 	}
 
+	/* --------------------------------------------------- Style des sous-menus */
 	nav > ul > li:hover > ul {
 		display:block;
 	}
 
+	/* ---------------------------------- CONTENT --------------------------- */
 	#wrapper {
 		background-color: rgba(40, 40, 40, 1);
 		padding: 32px;
 		position: relative;
 	}
 
+	/* ----------------------------------- FOOTER --------------------------- */
 	footer {
 		background-color: rgba(40, 40, 40, 1);
 		border: 0px red solid;
