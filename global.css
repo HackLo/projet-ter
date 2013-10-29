@@ -122,6 +122,11 @@ nav > ul > li > ul {
 	z-index: 0;		
 }
 
+#wrapper .soustitre {
+	font-weight:bold;
+	padding-top:20px;
+}
+
 #wrapper a {
 	color:#FFF;
 	text-decoration:none;
