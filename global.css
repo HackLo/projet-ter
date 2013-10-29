@@ -122,6 +122,24 @@ nav > ul > li > ul {
 	z-index: 0;		
 }
 
+#wrapper a {
+	color:#FFF;
+	text-decoration:none;
+}
+
+#wrapper a:hover {
+	color:#FFF;
+	text-decoration:underline;
+}
+
+#wrapper li {
+	list-style-type:disc;
+}
+
+#wrapper li.niveaudeux {
+	line-height:0px;
+}
+
 #titrepage {
 	font-family: "agency_fb", arial ;
 	font-size:26px;
