@@ -7,8 +7,8 @@
         		<li>Loïc Barouty</li>
                 <li>Vasylyna Golovnya</li>
                 <li>Lucas Leroux</li>
-                <li>Mélanie Roy</li>
                 <li>Romain Ouvrard</li>
+                <li>Mélanie Roy</li>
                 <li>Esther Wiest</li>
 			</ul>
 
