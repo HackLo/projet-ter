@@ -21,7 +21,7 @@
 		<link rel="stylesheet" href="global.css">
 
 		<!-- AJOUT DU JAVASCRIPT VIA LES FICHIERS CI-DESSOUS -->
-		<?php //include_once("scripts/scripts.php"); ?>
+		<?php include_once("scripts/scripts.php"); ?>
 	</head>
 	<body>
 		<!-- INCLUSION DU HEADER -->

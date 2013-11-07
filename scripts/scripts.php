@@ -42,4 +42,10 @@
 		blockIn.style.display = "block";
 		blockOut.style.display = "none";
 	};
+
+	$(window).resize(function() {
+  		//resize just happened, pixels changed
+  		alert("changement");
+	});
+
 </script>
