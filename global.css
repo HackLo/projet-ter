@@ -75,7 +75,8 @@ header #divLogo img {
 
 .boutonExpand div {
 	background-color: #303030;
-	border: 1px red solid;
+	border: 0px black solid;
+	border-radius: 4px;
 	height: 22px;
 	line-height:22px;
 	padding: 8px;
@@ -140,6 +141,9 @@ nav > ul > li > ul {
 }
 
 /* ------------------------------ WRAPPER -------------------------------------*/
+#imageAccueilMobile {
+	display: none;
+}
 #wrapper {
 	background-color: rgba(40, 40, 40, 0.9);
 	color:#FFF;
@@ -352,6 +356,9 @@ footer {
 	}
 
 	/* ---------------------------------- CONTENT --------------------------- */
+	#imageAccueilMobile {
+		display: block;
+	}
 	#wrapper {
 		background-color: white;
 		color: #282828;

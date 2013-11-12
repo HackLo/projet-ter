@@ -55,7 +55,9 @@
 			var mainmenu = document.getElementsByTagName("nav");
 			var blockIn = document.getElementById("blocNavigationPourMobileIn");
 			var blockOut = document.getElementById("blocNavigationPourMobileOut");
+			var imageAccueilMobile = document.getElementById("imageAccueilMobile");
 
+			imageAccueilMobile.style.display = "none";
 			mainmenu[0].style.display = "block";
 			blockIn.style.display = "none";
 			blockOut.style.display = "none";
@@ -63,7 +65,9 @@
 		else {
 			var blockIn = document.getElementById("blocNavigationPourMobileIn");
 			var blockOut = document.getElementById("blocNavigationPourMobileOut");
+			var imageAccueilMobile = document.getElementById("imageAccueilMobile");
 
+			imageAccueilMobile.style.display = "block";
 			blockIn.style.display = "block";
 			blockOut.style.display = "none";
 		}

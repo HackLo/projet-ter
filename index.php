@@ -84,6 +84,9 @@
 					break;
 			}
 		?>
+		<div id="imageAccueilMobile">
+			<img src="graphics/bgV1.jpg" alt="Background" />
+		</div>
 
 		<!-- INCLUSION DU FOOTER -->
 		<?php include_once("footer.php"); ?>
