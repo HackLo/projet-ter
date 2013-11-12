@@ -32,7 +32,7 @@
 			
 			switch ($page) {
 				case 'accueil':
-					//include_once("lorem.php"); 
+					include_once("accueil.php"); 
 					break;
 
 				case 'lire':
@@ -84,9 +84,6 @@
 					break;
 			}
 		?>
-		<div id="imageAccueilMobile">
-			<img src="graphics/bgV1.jpg" alt="Background" />
-		</div>
 
 		<!-- INCLUSION DU FOOTER -->
 		<?php include_once("footer.php"); ?>
