@@ -354,7 +354,9 @@ footer {
 	nav > ul > li:hover > ul {
 		display:block;
 	}
-
+	nav > ul > li > ul {
+		font-size: 15px;
+	}
 	/* ---------------------------------- CONTENT --------------------------- */
 	#imageAccueilMobile {
 		display: block;
