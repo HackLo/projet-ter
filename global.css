@@ -62,21 +62,51 @@ header #divLogo img {
 /* ------------------------------ MENU ------------------------------------- */
 #blocNavigationPourMobileIn, #blocNavigationPourMobileOut {
 	display: none;
+	margin : 8px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
 }
-nav {
- 	color: white;
+
+.boutonExpand {
+	
+	text-align: left;
+}
+
+.boutonExpand div {
+	background-color: #303030;
+	border: 1px red solid;
+	height: 22px;
+	line-height:22px;
+	padding: 8px;
+	width: 20px;
+}
+
+.boutonExpand img {
+	height: 22px;
+	width: 20px;
+}
+
+#divNavContent {
+	color: white;
  	font-family: "agency_fb", arial ;
 	font-size: 18px;
 	text-transform:uppercase;
-	margin: 0;
+}
+#divNavContent a {
+	color: white;
+ 	text-decoration: none;
+ 	width: 100%;
+}
+
+nav {
+ 	margin: 0;
 	padding: 0;
 	z-index: 200;
 }
 
 nav a {
- 	color: white;
- 	text-decoration: none;
- 	width: 100%;
+ 	
 }
 
 nav ul {
@@ -266,21 +296,28 @@ footer {
 	/* --------------------------- HEADER MOBILE ---------------------------------- */
 	header {
 		border: 0px red solid;
-		margin-bottom: 12px;
 		padding-right: 0px;
 		position: relative;
 		width: 100%;
 	}
+
+	header > div {
+		background-color: rgba(40, 40, 40, 1);
+		height: 100%;
+	}
+
 	header #divLogo {
 		display: block;
 		margin: 0;
-		padding: 0;
+		padding: 0px;
+		padding-top: 12px;
+		padding-bottom: 12px;
 	}
 	header #divLogo img {
-		height: 10%;
+		height: 6em;
 		margin: 0;
 		padding: 0;
-		width: 10%;
+		width: 7em;
 	}
 
 	/* -------------------- BARRE D'AFFICHAGE DU MENU -------------------------- */
@@ -316,7 +353,8 @@ footer {
 
 	/* ---------------------------------- CONTENT --------------------------- */
 	#wrapper {
-		background-color: rgba(40, 40, 40, 1);
+		background-color: white;
+		color: #282828;
 		padding: 32px;
 		position: relative;
 	}
@@ -325,7 +363,7 @@ footer {
 	footer {
 		background-color: rgba(40, 40, 40, 1);
 		border: 0px red solid;
-		margin-top: 12px;
+		padding-top: 12px;
 		position: relative;
 		text-align: center;
 	}

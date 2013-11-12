@@ -15,13 +15,15 @@
 	 *  nomSM représente l'ID du block à afficher
 	 */ 
 	function expand(nomSM) {
-		alert("function expand");
+		//alert("function expand");
 		hideSM();
 
-		// On récupère l'élément via son ID
-		sousliste = document.getElementById(nomSM);
-		// On change sa propriété display: none en display:block
-		sousliste.style.display = "block";
+		//if(window.outerWidth < 840) {
+			// On récupère l'élément via son ID
+			sousliste = document.getElementById(nomSM);
+			// On change sa propriété display: none en display:block
+			sousliste.style.display = "block";
+		//}
 	};
 
 	function expandNav() {
@@ -43,9 +45,28 @@
 		blockOut.style.display = "none";
 	};
 
-	$(window).resize(function() {
-  		//resize just happened, pixels changed
-  		alert("changement");
-	});
+	function reorganiser()
+	{
+		/*var w=window.outerWidth;
+		var h=window.outerHeight;
+		var txt="Window size: width=" + w + ", height=" + h;
+		document.getElementById("demo").innerHTML=txt;*/
+		if(window.outerWidth > 840) {
+			var mainmenu = document.getElementsByTagName("nav");
+			var blockIn = document.getElementById("blocNavigationPourMobileIn");
+			var blockOut = document.getElementById("blocNavigationPourMobileOut");
+
+			mainmenu[0].style.display = "block";
+			blockIn.style.display = "none";
+			blockOut.style.display = "none";
+		}
+		else {
+			var blockIn = document.getElementById("blocNavigationPourMobileIn");
+			var blockOut = document.getElementById("blocNavigationPourMobileOut");
+
+			blockIn.style.display = "block";
+			blockOut.style.display = "none";
+		}
+	}
 
 </script>

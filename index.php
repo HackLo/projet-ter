@@ -23,7 +23,7 @@
 		<!-- AJOUT DU JAVASCRIPT VIA LES FICHIERS CI-DESSOUS -->
 		<?php include_once("scripts/scripts.php"); ?>
 	</head>
-	<body>
+	<body onresize="reorganiser()">
 		<!-- INCLUSION DU HEADER -->
 		<?php include_once("header.php"); ?>
 
