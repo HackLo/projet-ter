@@ -140,6 +140,10 @@ nav > ul > li > ul {
 	padding: 0;
 }
 
+#divNavContent > nav > ul > li > ul > li:hover > a {
+	color: rgba(137, 137, 137, 1);
+}
+
 /* ------------------------------ WRAPPER -------------------------------------*/
 #imageAccueilMobile {
 	display: none;
@@ -263,9 +267,7 @@ footer {
 	}
 
 	/* --------------------------------------- Style des items des sous-menus */
-	nav > ul > li > ul > li:hover > a {
-		color: rgba(137, 137, 137, 1);
-	}
+	
 
 	/* ---------------------------------- CONTENT --------------------------- */
 	#wrapper {
@@ -292,7 +294,7 @@ footer {
 	/* --------------------------- BODY MOBILE ------------------------------------ */
 	body {
 		background-image: none;
-		background-color: black;
+		background-color: #282828;
 		margin: 0 auto;
 		width: 100%;
 	}
@@ -315,7 +317,7 @@ footer {
 		margin: 0;
 		padding: 0px;
 		padding-top: 12px;
-		padding-bottom: 12px;
+		padding-bottom: 18px;
 	}
 	header #divLogo img {
 		height: 6em;
@@ -358,6 +360,10 @@ footer {
 	/* ---------------------------------- CONTENT --------------------------- */
 	#imageAccueilMobile {
 		display: block;
+		width: 100%;
+	}
+	#imageAccueilMobile img {
+		width: 100%;
 	}
 	#wrapper {
 		background-color: white;
