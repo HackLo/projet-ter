@@ -6,3 +6,8 @@
 
 #RewriteRule ^index.php?page=lire$ lire.html
 #RewriteRule ^page2.html$ page1.html
+
+#AuthName "Page d'administration protegee"
+#AuthType Basic
+#AuthUserFile "C:\wamp\www\Azrael\public_html\projet-ter\.htpasswd"
+#Require valid-user

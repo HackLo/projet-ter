@@ -35,7 +35,7 @@
 					include_once("accueil.php"); 
 					break;
 
-				case 'lire':
+				case 'lireN':
 					include_once("lire-la-nouvelle.php"); 
 					break;
 				

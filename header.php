@@ -11,7 +11,7 @@
 		</div>
 		<nav>
 			<ul id="mainmenu">
-	        	<li><a href="index.php?page=lire">Lire la nouvelle</a></li>
+	        	<li><a href="index.php?page=lireN">Lire la nouvelle</a></li>
 				<li onclick="expand('smHIS');" onmouseout="hideSM();" onmouseover="expand('smHIS');"><a href="#">L'histoire</a>
 					<ul class="sousmenu" id="smHIS">
 						<li><a href="index.php?page=synopsis">Synopsis</a></li>
