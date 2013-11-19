@@ -392,6 +392,25 @@ footer {
 		position: relative;
 	}
 
+	.blocleft {
+		width:100%;
+		height:auto;
+		float:none;
+	}
+
+	.blocright {
+		width:100%;
+		height:auto;
+		float:none;
+		margin-bottom: 64px;
+	}
+
+	.imagecontenu {
+		float:none;
+		margin-top:15px;
+		width: 100%;
+	}
+
 	/* ----------------------------------- FOOTER --------------------------- */
 	footer {
 		background-color: rgba(40, 40, 40, 1);
