@@ -1,5 +1,5 @@
 <div id="wrapper">
-    <div id="titrepage">Le parcours initiatiques</div>
+    <div id="titrepage">Le parcours initiatique</div>
     
 	<p>Quantité : 2 personnes<br />
     Temps de préparation : 2 mois<br />
