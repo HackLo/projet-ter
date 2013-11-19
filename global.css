@@ -25,7 +25,8 @@
 /* Pour ajouter des polices d'éciture via le dossier font. */
 @font-face {
 	font-family: 'agency_fb';
-	src: url('font/agency_fb.ttf');
+	src: url('font/agencyr.eot?#iefix') format('embedded-opentype'),
+	     url('font/agency_fb.ttf') format('truetype');
 }
 
 /* ------------------------------ HEADER ------------------------------------- */
