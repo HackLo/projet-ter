@@ -1,6 +1,6 @@
 <footer>
 	<div class="reseauxsociaux">
-		<a href="https://www.facebook.com/CulinR" target="_blank"><img src="graphics/facebook1.png" alt="Page Facebook Culin'R"/></a>
+		<a href="https://www.facebook.com/CulinR" target="_blank"><img src="graphics/facebook.png" alt="Page Facebook Culin'R"/></a>
 		<a href="https://twitter.com/" target="_blank"><img src="graphics/twitter.png" alt="Page Twitter"/></a>
 		<a href="https://plus.google.com/?hl=fr" target="_blank"><img src="graphics/googleplus.png" alt="Page Google Plus"/></a>
 	</div>
