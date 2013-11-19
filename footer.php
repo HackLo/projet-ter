@@ -6,6 +6,6 @@
 	</div>
 	<div class="footer">
 		<p class="copyright">© Copyright 2013 - Master Web Éditorial</p>
-		<p class="copyright"><a href="index.php?page=plan">Plan du site</a> | <a href="index.php?page=mentions">Mentions légales</a></p>
+		<p class="copyright"><a href="index.php?page=plan">Plan du site</a> | <a href="index.php?page=mentions">Mentions légales</a> | <a href="index.php?page=contact">Contact</a></p>
 	</div>
 </footer>
