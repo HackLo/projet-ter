@@ -37,11 +37,20 @@
 	<div class="blocleft">
 		<p class="soustitre">GRAND LIVRE DE CUISINE</p>
 		<p>de Joël Robuchon</p>
-		<img src="graphics/inspiration-grandlivredecuisine.jpg" class="imagecontenu" width="190" alt="Geand livre de cuisine" />
+		<img src="graphics/inspiration-grandlivredecuisine.jpg" class="imagecontenu" width="190" alt="Grand livre de cuisine" />
 	</div>
 	<div class="blocright">
 		<p>Au travers de cet ouvrage, Joël Robuchon s'adresse aux cuisiniers et amateurs passionnés, et démontre son amour du produit, son envie de le sublime et son désir de partager le plus largement possible le fruit de ses créations. Cette nouvelle fait référence à ce livre d'art culinaire qui reflète les maîtres mots de la cuisine du chef le plus étoilé au monde: excellence et tradition.</p>
 	</div>
 	<div style="clear: both;"></div>
+
+	<div class="blocleft">
+		<p class="soustitre">RECETTE DE CUISINE</p>
+		<p>Velouté de châtaignes au foie gras</p>
+		<img src="graphics/inspiration-veloute-chataignes.jpg" class="imagecontenu" width="190" alt="Recette velouté de châtaignes au foie gras" />
+	</div>
+	<div class="blocright">
+		<p>La nouvelle présente une délicieuse recette de cuisine traditionnelle : le velouté de châtaignes au foie gras. Recette de fête, cette préparation peut être servie avec de fines tranches de foie gras ou des morceaux de lard croustillants. Le goût présent et très agréable de la châtaigne se marie très bien avec le foie gras. Pour les amateurs de cuisine, la recette est disponible <a href="http://www.marmiton.org/recettes/recette_veloute-de-chataignes-au-foie-gras_46124.aspx">ici</a>.</p>
+	</div>
 
 </div>

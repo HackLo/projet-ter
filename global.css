@@ -168,11 +168,11 @@ nav > ul > li > ul {
 
 #wrapper a {
 	color:#FFF;
-	text-decoration:none;
+	text-decoration:underline;
 }
 
 #wrapper a:hover {
-	color:#FFF;
+	color:rgba(137, 137, 137, 1);
 	text-decoration:underline;
 }
 
