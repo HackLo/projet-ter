@@ -21,6 +21,10 @@
 	padding: 0;
 }
 
+a:active {
+ 	background-color: inherit;
+}
+
 /* ----------------------------------- POLICES --------------------------- */
 /* Pour ajouter des polices d'éciture via le dossier font. */
 @font-face {
