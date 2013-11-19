@@ -56,6 +56,7 @@ header #divLogo {
 }
 
 header #divLogo img {
+	border : none;
 	height: 50%;
 	width: 50%;
 }
@@ -234,6 +235,10 @@ footer {
 
 .reseauxsociaux {
 	width:100%;	
+}
+
+.reseauxsociaux img  {
+	border : none;
 }
 
 /* ----------------------------------------------------------------------------------------------------------------------------------------
