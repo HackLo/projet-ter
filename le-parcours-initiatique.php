@@ -5,13 +5,13 @@
     Temps de préparation : 2 mois<br />
 	Niveau de difficulté : Moyen</p>
     
-    <p class="soustitre">INGRÉDIENTS</p>
+    <p class="soustitre">Ingrédients</p>
 	<p>2 êtres humains<br />
 	150g de réticence<br />
 	2kg de curiosité<br />
 	1 pincée d'appétit</p>
 
-	<p class="soustitre">PRÉPARATION</p>
+	<p class="soustitre">Préparation</p>
 	<p>Prenez deux mondes avec une culture différente.<br />
         Ajoutez-y un infiltré.<br />
         Faites mariner un soupçon d'étonnement et de réticence face à un petit déjeuner.<br />
