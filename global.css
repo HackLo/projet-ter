@@ -26,6 +26,10 @@ a:active {
  	background-color: inherit;
 }
 
+a:active {
+ 	background-color: inherit;
+}
+
 /* ----------------------------------- POLICES --------------------------- */
 /* Pour ajouter des polices d'éciture via le dossier font. */
 @font-face {
@@ -244,8 +248,6 @@ footer {
 .reseauxsociaux {
 	width:100%;	
 }
-<<<<<<< HEAD
-=======
 
 .reseauxsociaux img  {
 	border : none;
@@ -254,7 +256,6 @@ footer {
 	width: 25px;
 }
 
->>>>>>> d4bd41e6dea05902a6c216c52e07dcb87dfd92a0
 /* ----------------------------------------------------------------------------------------------------------------------------------------
                                AFFICHAGE > 840 PIXELS
  ------------------------------------------------------------------------------------------------------------------------------------------*/
