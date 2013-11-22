@@ -3,7 +3,7 @@
 	<div id="titrepage">Inspirations</div>
   
 	<div class="blocleft">
-		<p class="soustitre">INCEPTION</p>
+		<p class="soustitre">Inception</p>
 		<p>Film de Christopher Nolan</p>
 		<img src="graphics/inspiration-inception.jpg" class="imagecontenu" width="190" alt="Inception" />
 	</div>
@@ -14,7 +14,7 @@
 
 
 	<div class="blocleft">
-		<p class="soustitre">UNDER THE DOME</p>
+		<p class="soustitre">Under the dome</p>
 		<p>Série TV de Brian K. Vaughan,<br /> 
         d'après le roman de Stephen King</p>
 		<img src="graphics/inspiration-underthedome.jpg" class="imagecontenu" width="190" alt="Under the Dome" />
@@ -25,23 +25,32 @@
 	<div style="clear: both;"></div>
 
 	<div class="blocleft">
-		<p class="soustitre">LIVING TOMORROW</p>
+		<p class="soustitre">Living Tomorrow</p>
 		<p>Projet de Michael van Oosten</p>
 		<img src="graphics/inspiration-livingtomorrow.jpg" class="imagecontenu" width="190" alt="Living Tomorrow" />
 	</div>
 	<div class="blocright">
-		<p>Living Tomorrow est un lieu de rencontres pour les entreprises novatrices, leur permettant de faire connaître aux visiteurs des produits et services qui pourraient améliorer la qualité de vie et de travail, dans un futur proche. Ce projet a inspiré notre vision de la maison d'Ed Gaïa, notamment la maison du futur d'Amsterdam (pour l'extérieur) et celle de Vilvorde (pour l'intérieur et la cuisine).</p>
+		<p>Living Tomorrow est un lieu de rencontres pour les entreprises novatrices. Il leur permet de faire connaître aux visiteurs des produits et services qui pourraient améliorer la qualité de vie et de travail, dans un futur proche. Ce projet a inspiré notre vision de la maison d'Ed Gaïa, notamment la maison de Vilvorde (projet de 2007 - 2012) pour l'espace intérieur et la cuisine.</p>
 	</div>
 	<div style="clear: both;"></div>
 
 	<div class="blocleft">
-		<p class="soustitre">GRAND LIVRE DE CUISINE</p>
+		<p class="soustitre">Grand livre de cuisine</p>
 		<p>de Joël Robuchon</p>
-		<img src="graphics/inspiration-grandlivredecuisine.jpg" class="imagecontenu" width="190" alt="Geand livre de cuisine" />
+		<img src="graphics/inspiration-grandlivredecuisine.jpg" class="imagecontenu" width="190" alt="Grand livre de cuisine" />
 	</div>
 	<div class="blocright">
 		<p>Au travers de cet ouvrage, Joël Robuchon s'adresse aux cuisiniers et amateurs passionnés, et démontre son amour du produit, son envie de le sublime et son désir de partager le plus largement possible le fruit de ses créations. Cette nouvelle fait référence à ce livre d'art culinaire qui reflète les maîtres mots de la cuisine du chef le plus étoilé au monde: excellence et tradition.</p>
 	</div>
 	<div style="clear: both;"></div>
+
+	<div class="blocleft">
+		<p class="soustitre">Recette de cuisine</p>
+		<p>Velouté de châtaignes au foie gras</p>
+		<img src="graphics/inspiration-veloute-chataignes.jpg" class="imagecontenu" width="190" alt="Recette velouté de châtaignes au foie gras" />
+	</div>
+	<div class="blocright">
+		<p>La nouvelle présente une délicieuse recette de cuisine traditionnelle : le velouté de châtaignes au foie gras. Recette de fête, cette préparation peut être servie avec de fines tranches de foie gras ou des morceaux de lard croustillants. Le goût présent et très agréable de la châtaigne se marie très bien avec le foie gras. Pour les amateurs de cuisine, la recette est disponible <a href="http://www.marmiton.org/recettes/recette_veloute-de-chataignes-au-foie-gras_46124.aspx"><u>ici</u></a>.</p>
+	</div>
 
 </div>

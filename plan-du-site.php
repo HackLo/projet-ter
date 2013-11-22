@@ -14,6 +14,7 @@
         <li><a href="index.php?page=inspirations">Inspirations</a></li><br />
         <li><a href="index.php?page=plan">Plan du site</a></li>
         <li><a href="index.php?page=mentions">Mentions légales</a></li>
+        <li><a href="index.php?page=contact">Contact</a></li>
 	</ul>
     
 </div>

@@ -78,7 +78,11 @@
 				case 'mentions':
 					include_once("mentions-legales.php"); 
 					break;
-					
+				
+				case 'contact':
+					include_once("contact.php"); 
+					break;
+				
 				default:
 					include_once("lorem.php"); 
 					break;

@@ -22,11 +22,16 @@
 	width: auto;
 }
 
+a:active {
+ 	background-color: inherit;
+}
+
 /* ----------------------------------- POLICES --------------------------- */
 /* Pour ajouter des polices d'éciture via le dossier font. */
 @font-face {
 	font-family: 'agency_fb';
-	src: url('font/agency_fb.ttf');
+	src: url('font/agencyr.eot?#iefix') format('embedded-opentype'),
+	     url('font/agency_fb.ttf') format('truetype');
 }
 
 /* ------------------------------ HEADER ------------------------------------- */
@@ -56,6 +61,7 @@ header #divLogo {
 }
 
 header #divLogo img {
+	border : none;
 	height: 50%;
 	width: 50%;
 }
@@ -165,6 +171,7 @@ nav > ul > li > ul {
 	font-weight:bold;
 	font-size:14px;
 	margin-bottom:-10px;
+	text-transform:uppercase;
 }
 
 #wrapper a {
@@ -200,6 +207,8 @@ nav > ul > li > ul {
 .imagecontenu {
 	float:left;
 	margin-top:15px;
+	margin-bottom:5px;
+	margin-right:5px;
 }
 
 #titrepage {
@@ -235,6 +244,17 @@ footer {
 .reseauxsociaux {
 	width:100%;	
 }
+<<<<<<< HEAD
+=======
+
+.reseauxsociaux img  {
+	border : none;
+	height: 25px;
+	padding-right:4px;
+	width: 25px;
+}
+
+>>>>>>> d4bd41e6dea05902a6c216c52e07dcb87dfd92a0
 /* ----------------------------------------------------------------------------------------------------------------------------------------
                                AFFICHAGE > 840 PIXELS
  ------------------------------------------------------------------------------------------------------------------------------------------*/
@@ -391,6 +411,16 @@ footer {
 		padding: 32px;
 		position: relative;
 	}
+	
+	#wrapper a {
+		color:#282828;
+		text-decoration:none;
+	}
+	
+	#wrapper a:hover {
+		color:#282828;
+		text-decoration:underline;
+	}
 
 	.blocleft {
 		width:100%;
@@ -409,6 +439,7 @@ footer {
 		float:none;
 		margin-top:15px;
 		width: 100%;
+		height:100%;
 	}
 
 	/* ----------------------------------- FOOTER --------------------------- */
