@@ -70,8 +70,8 @@ header #divLogo {
 
 header #divLogo img {
 	border : none;
-	height: 50%;
-	width: 50%;
+	height: 75px;
+	width: 115px;
 }
 
 /* ------------------------------ MENU ------------------------------------- */
@@ -234,6 +234,7 @@ footer {
 	text-align:center;
 	padding-bottom:5px;
 	z-index: 30;
+	height:75px;
 }
 
 .copyright {
