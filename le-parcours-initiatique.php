@@ -1,17 +1,17 @@
 <div id="wrapper">
-    <div id="titrepage">Le parcours initiatique</div>
+    <h1>Le parcours initiatique</h1>
     
 	<p>Quantité : 2 personnes<br />
     Temps de préparation : 2 mois<br />
 	Niveau de difficulté : Moyen</p>
     
-    <p class="soustitre">Ingrédients</p>
+    <h2>Ingrédients</h2>
 	<p>2 êtres humains<br />
 	150g de réticence<br />
 	2kg de curiosité<br />
 	1 pincée d'appétit</p>
 
-	<p class="soustitre">Préparation</p>
+	<h2>Préparation</h2>
 	<p>Prenez deux mondes avec une culture différente.<br />
         Ajoutez-y un infiltré.<br />
         Faites mariner un soupçon d'étonnement et de réticence face à un petit déjeuner.<br />

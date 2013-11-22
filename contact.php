@@ -1,4 +1,4 @@
 <div id="wrapper">
-    <div id="titrepage">Contacter la rédaction</div>
+    <h1>Contacter la rédaction</h1>
 	<p>Insérer un formulaire de contact</p>
 </div>

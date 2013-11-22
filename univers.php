@@ -1,7 +1,7 @@
 <div id="wrapper">
-    <h1 id="titrepage">L'univers</h1>
+    <h1>L'univers</h1>
 	
-    <h2 class="soustitre">La planète Terre</h2>
+    <h2>La planète Terre</h2>
 	
 
 <p>Notre planète est un amoncellement de cendres sans âme dans lequel le vivant n'a plus vraiment son mot à dire. Seule espèce capable d'affronter les conséquences d'une explosion volcanique dévastatrice, l'Humain a choisi de profondément modifier son métabolisme pour amoindrir les dangers et douleurs imposés par cet environnement, qui est désormais son 

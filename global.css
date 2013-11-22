@@ -175,7 +175,15 @@ nav > ul > li > ul {
 	z-index: 0;		
 }
 
-#wrapper .soustitre {
+h1{
+	font-family: "agency_fb", arial ;
+	font-size:26px;
+	margin-bottom:30px;
+	text-transform:uppercase;
+	font-weight:100;
+}
+
+h2{
 	font-weight:bold;
 	font-size:14px;
 	margin-bottom:-10px;
@@ -219,12 +227,6 @@ nav > ul > li > ul {
 	margin-right:5px;
 }
 
-#titrepage {
-	font-family: "agency_fb", arial ;
-	font-size:26px;
-	margin-bottom:30px;
-	text-transform:uppercase;
-}
 
 /* ------------------------------ FOOTER ------------------------------------- */
 footer {
