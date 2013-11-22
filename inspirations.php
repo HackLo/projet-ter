@@ -1,9 +1,9 @@
 <div id="wrapper">
 
-	<div id="titrepage">Inspirations</div>
+	<h1>Inspirations</h1>
   
 	<div class="blocleft">
-		<p class="soustitre">Inception</p>
+		<h2>Inception</h2>
 		<p>Film de Christopher Nolan</p>
 		<img src="graphics/inspiration-inception.jpg" class="imagecontenu" width="190" alt="Inception" />
 	</div>
@@ -14,7 +14,7 @@
 
 
 	<div class="blocleft">
-		<p class="soustitre">Under the dome</p>
+		<h2>Under the dome</h2>
 		<p>Série TV de Brian K. Vaughan,<br /> 
         d'après le roman de Stephen King</p>
 		<img src="graphics/inspiration-underthedome.jpg" class="imagecontenu" width="190" alt="Under the Dome" />
@@ -25,7 +25,7 @@
 	<div style="clear: both;"></div>
 
 	<div class="blocleft">
-		<p class="soustitre">Living Tomorrow</p>
+		<h2>Living Tomorrow</h2>
 		<p>Projet de Michael van Oosten</p>
 		<img src="graphics/inspiration-livingtomorrow.jpg" class="imagecontenu" width="190" alt="Living Tomorrow" />
 	</div>
@@ -35,7 +35,7 @@
 	<div style="clear: both;"></div>
 
 	<div class="blocleft">
-		<p class="soustitre">Grand livre de cuisine</p>
+		<h2>Grand livre de cuisine</h2>
 		<p>de Joël Robuchon</p>
 		<img src="graphics/inspiration-grandlivredecuisine.jpg" class="imagecontenu" width="190" alt="Grand livre de cuisine" />
 	</div>
@@ -45,7 +45,7 @@
 	<div style="clear: both;"></div>
 
 	<div class="blocleft">
-		<p class="soustitre">Recette de cuisine</p>
+		<h2>Recette de cuisine</h2>
 		<p>Velouté de châtaignes au foie gras</p>
 		<img src="graphics/inspiration-veloute-chataignes.jpg" class="imagecontenu" width="190" alt="Recette velouté de châtaignes au foie gras" />
 	</div>

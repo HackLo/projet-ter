@@ -2,7 +2,6 @@
 	<div class="reseauxsociaux">
 		<a href="https://www.facebook.com/CulinR" target="_blank"><img src="graphics/facebook.png" alt="Page Facebook Culin'R" /></a>
 		<a href="https://twitter.com/" target="_blank"><img src="graphics/twitter.png" alt="Page Twitter Culin'R" /></a>
-		<a href="https://plus.google.com/?hl=fr" target="_blank"><img src="graphics/googleplus.png" alt="Page Google+ Culin'R" /></a>
 	</div>
 	<div class="footer">
 		<p class="copyright">© Copyright 2013 - Master Web Éditorial</p>

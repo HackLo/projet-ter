@@ -1,5 +1,5 @@
 <div id="wrapper">
-    <div id="titrepage">Plan du site</div>
+    <h1>Plan du site</h1>
     
     <ul>
         <li><a href="index.php">Accueil</a></li>
