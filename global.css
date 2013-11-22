@@ -19,6 +19,7 @@
 	color: white;
 	margin: 0;
 	padding: 0;
+	width: auto;
 }
 
 /* ----------------------------------- POLICES --------------------------- */
@@ -234,12 +235,11 @@ footer {
 .reseauxsociaux {
 	width:100%;	
 }
-
 /* ----------------------------------------------------------------------------------------------------------------------------------------
                                AFFICHAGE > 840 PIXELS
  ------------------------------------------------------------------------------------------------------------------------------------------*/
  /* Style pour les affichages supérieur à 840 pixels de large. */
-@media screen and (min-width: 840px) {
+@media only screen and (min-width: 840px) { /* 839px */
 	/* ------------------------------ HEADER ------------------------------------- */
 
 
@@ -308,7 +308,7 @@ footer {
                                AFFICHAGE < 840 PIXELS
  ------------------------------------------------------------------------------------------------------------------------------------------*/
   /* Style pour les affichages inférieur à 840 pixels de large. */
-@media screen and (max-width: 839px){
+@media handheld, only screen and (max-device-width: 841px), only screen and (max-width: 841px) { /* 839px */
 	/* --------------------------- BODY MOBILE ------------------------------------ */
 	body {
 		background-image: none;
