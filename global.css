@@ -106,7 +106,7 @@ header #divLogo img {
 #divNavContent {
 	color: white;
  	font-family: "agency_fb", arial ;
-	font-size: 18px;
+	font-size: 20px;
 	text-transform:uppercase;
 }
 #divNavContent a {
@@ -167,7 +167,7 @@ nav > ul > li > ul {
 	background-color: rgba(40, 40, 40, 0.9);
 	color:#FFF;
 	font-family:arial;
-	font-size:13px;
+	font-size:12px;
 	line-height:20px;
 	padding: 50px;
 	padding-top:120px;
@@ -264,7 +264,7 @@ footer {
                                AFFICHAGE > 840 PIXELS
  ------------------------------------------------------------------------------------------------------------------------------------------*/
  /* Style pour les affichages supérieur à 840 pixels de large. */
-@media only screen and (min-width: 840px) { /* 839px */
+@media only screen and (min-width: 841px) { /* 839px */
 	/* ------------------------------ HEADER ------------------------------------- */
 
 

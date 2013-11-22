@@ -51,7 +51,7 @@
 		var h=window.outerHeight;
 		var txt="Window size: width=" + w + ", height=" + h;
 		document.getElementById("demo").innerHTML=txt;*/
-		if(window.outerWidth > 840) {
+		/*if(window.outerWidth > 840) {
 			var mainmenu = document.getElementsByTagName("nav");
 			var blockIn = document.getElementById("blocNavigationPourMobileIn");
 			var blockOut = document.getElementById("blocNavigationPourMobileOut");
@@ -70,7 +70,7 @@
 			imageAccueilMobile.style.display = "block";
 			blockIn.style.display = "block";
 			blockOut.style.display = "none";
-		}
+		}*/
 	}
 
 </script>
