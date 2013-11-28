@@ -30,7 +30,7 @@
 		<img src="graphics/inspiration-livingtomorrow.jpg" class="imagecontenu" width="190" alt="Living Tomorrow" />
 	</div>
 	<div class="blocright">
-		<p>Living Tomorrow est un lieu de rencontres pour les entreprises novatrices. Il leur permet de faire connaître aux visiteurs des produits et services qui pourraient améliorer la qualité de vie et de travail, dans un futur proche. Ce projet a inspiré notre vision de la maison d'Ed Gaïa, notamment la maison de Vilvorde (projet de 2007 - 2012) pour l'espace intérieur et la cuisine. Visitez la maison à travers cette <a href="http://www.youtube.com/watch?v=9DJr8QwgLEA"><u>vidéo</u></a>.</p>
+		<p>Living Tomorrow est un lieu de rencontres pour les entreprises novatrices. Il leur permet de faire connaître aux visiteurs des produits et services qui pourraient améliorer la qualité de vie et de travail, dans un futur proche. Ce projet a inspiré notre vision de la maison d'Ed Gaïa, notamment la maison de Vilvorde pour l'espace intérieur et la cuisine. Il est possible de visiter cette maison à travers cette <a href="http://www.youtube.com/watch?v=9DJr8QwgLEA" target="_blank"><u>vidéo</u></a>.</p>
 	</div>
 	<div style="clear: both;"></div>
     
@@ -50,7 +50,7 @@
 		<img src="graphics/inspiration-veloute-chataignes.jpg" class="imagecontenu" width="190" alt="Recette velouté de châtaignes au foie gras" />
 	</div>
 	<div class="blocright">
-		<p>La nouvelle présente une délicieuse recette de cuisine traditionnelle : le velouté de châtaignes au foie gras. Recette de fête, cette préparation peut être servie avec de fines tranches de foie gras ou des morceaux de lard croustillants. Le goût présent et très agréable de la châtaigne se marie très bien avec le foie gras. Pour les amateurs de cuisine, la recette est disponible <a href="http://www.marmiton.org/recettes/recette_veloute-de-chataignes-au-foie-gras_46124.aspx"><u>ici</u></a>.</p>
+		<p>La nouvelle présente une délicieuse recette de cuisine traditionnelle : le velouté de châtaignes au foie gras. Recette de fête, cette préparation peut être servie avec de fines tranches de foie gras ou des morceaux de lard croustillants. Le goût présent et très agréable de la châtaigne se marie très bien avec le foie gras. Pour les amateurs de cuisine, la recette est disponible <a href="http://www.marmiton.org/recettes/recette_veloute-de-chataignes-au-foie-gras_46124.aspx" target="_blank"><u>ici</u></a>.</p>
 	</div>
 
 </div>
