@@ -42,6 +42,12 @@ a:active {
 	     url('font/agency_fb.ttf') format('truetype');
 }
 
+@font-face {
+	font-family: 'WinterthurCondensed';
+	src: url('font/WinterthurCondensed.ttf') format('truetype');
+}
+
+
 /* ------------------------------ HEADER ------------------------------------- */
 #blocNavigationPourMobileIn, #blocNavigationPourMobileOut {
 	display: none;
@@ -107,7 +113,7 @@ header #divLogo img {
 	/*background-color: yellow;*/
 	color: white;
  	font-family: "agency_fb", arial ;
-	font-size: 20px;
+	font-size:20px;
 	text-transform:uppercase;
 }
 #divNavContent a {
@@ -201,7 +207,7 @@ nav > ul > li > ul {
 	padding: 50px;
 	padding-top:120px;
 	text-align:justify;
-	z-index: 0;		
+	z-index: 0;
 }
 
 h1{
