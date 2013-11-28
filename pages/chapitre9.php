@@ -1,4 +1,3 @@
-<h2>Chapitre 9</h2>
 <p>Quelques temps plus tard, je me sentais déjà mieux. Ma fatigue commençait à s’estomper. Mes blessures ne me faisaient plus mal et je pouvais bouger comme auparavant. Je devais m’en aller retrouver mon peuple et leur montrer tout ce que j’avais pu découvrir ici.</p>
 <p>Je remerciai Ed Gaïa de m’avoir montré sa manière de vivre, de manger. Se nourrir, non pas pour survivre mais aussi pour ressentir du plaisir était une expérience inédite.</p>
 

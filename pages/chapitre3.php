@@ -1,4 +1,3 @@
-<h2>Chapitre 3</h2>
 <p>Lorsque j'ouvris les yeux à nouveau, mon corps endolori m’empêchait de me mouvoir à ma guise.</p>
 <p>Si je n'étais plus prisonnier de cette cloche de sève, j'étais désormais captif de ma propre carcasse de muscles et de métaux. De la couche si confortable sur laquelle j'étais allongé, j'observais la pièce dans laquelle je me trouvais. Les murs étaient d'un blanc immaculé, c'était inédit pour moi qui n'avait connu que cendres. Une lumière si vive inondait ce lieu étonnant grâce à une baie vitrée démesurée. Dehors se mêlaient paysages ruraux et urbains dans une surprenante harmonie. Soudain, on frappa à la porte. Un homme passa son visage par l’entrebâillement de celle-ci. Son corps était dépourvu de tout organe mécanique et sa peau légèrement bronzée était comme nourrie par le soleil artificiel qui arrosait de lumière ce lieu inédit. Je rencontrai pour la première fois celui que je pensais encore être mon geôlier, Ed Gaïa.</p>
 		

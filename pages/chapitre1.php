@@ -1,4 +1,3 @@
-<h2>Chapitre 1</h2>
 <p>« Adieu mon ami, adieu dôme salutaire… »</p>
 
 <p>Voilà cinq cents ans que le grand volcan entra en éruption. Le magma s'en échappant recouvrit des terres, jusqu'alors fertiles, sur des milliers de kilomètres. Des blocs de lave solidifiés semblables à des maisons se déversèrent sur les métropoles tels des pluies d'astéroïdes et le ciel disparut à jamais sous l'épaisse nuée ardente. Face à cette catastrophe destructrice, l'humanité, réduite à une poignée d'individus, dut faire un choix : se protéger ou s'adapter.</p>

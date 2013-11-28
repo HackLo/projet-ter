@@ -1,4 +1,3 @@
-<h2>Chapitre 8</h2>
 <p>Quand je n’accompagnais pas Ed Gaïa, je passais mon temps à étudier l’hologramme que j’avais trouvé.</p>
 <p>Un soir, je me décidai à le lui montrer.</p>
 <p>— Tu as trouvé mon vieil holographe ? C’est parfait ! Il y a plein de choses à découvrir pour toi ! s’exclama-t-il.</p>

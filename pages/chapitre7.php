@@ -1,4 +1,3 @@
-<h2>Chapitre 7</h2>
 <p>À partir de ce moment-là, je m’intéressais sans réserve à cette cuisine autochtone. Je me mis à accompagner mon hôte dans ses activités d’« agronome ». C’est à cette occasion que je découvris l’écosystème du dôme, même si au début j’en profitais surtout pour étudier à la dérobée ce fabuleux soleil qui pourrait peut-être sauver mon peuple.</p>
 <p>L’attitude d’Ed Gaïa à l’égard de ses cultures était une source constante d’étonnement : avec quelle délicatesse il touchait les plantes ! Comme si leur valeur était aussi inestimable que celle de l’uranium.</p>
 <p>« Tu vois, me répétait-il sans cesse, les plats que tu dégustes chaque jour à ma table ne seraient rien sans les aliments qui les composent. Le meilleur cuisinier du monde ne réaliserait qu’un plat fade sans des produits de qualité. C’est pourquoi tu dois toujours les choisir avec soin. » Or en la matière, rien ne valait la pratique pour Ed Gaïa.</p>

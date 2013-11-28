@@ -1,4 +1,3 @@
-<h2>Chapitre 2</h2>
 <p>De nouveau au pied du dôme, nous installions une énorme charge explosive sur son enveloppe translucide. Nous ignorions de quelle matière il était constitué, s'il résisterait à la puissance de l'explosion. Nous reculions d'un bon kilomètre pour nous épargner la déflagration.</p>
 
 <p>5,4,3,2,1... BOOM !</p>
