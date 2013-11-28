@@ -35,16 +35,6 @@
 	<div style="clear: both;"></div>
 
 	<div class="blocleft">
-		<h2>Grand livre de cuisine</h2>
-		<p>de Joël Robuchon</p>
-		<img src="graphics/inspiration-grandlivredecuisine.jpg" class="imagecontenu" width="190" alt="Grand livre de cuisine" />
-	</div>
-	<div class="blocright">
-		<p>Au travers de cet ouvrage, Joël Robuchon s'adresse aux cuisiniers et amateurs passionnés, et démontre son amour du produit, son envie de le sublime et son désir de partager le plus largement possible le fruit de ses créations. Cette nouvelle fait référence à ce livre d'art culinaire qui reflète les maîtres mots de la cuisine du chef le plus étoilé au monde: excellence et tradition.</p>
-	</div>
-	<div style="clear: both;"></div>
-
-	<div class="blocleft">
 		<h2>Recette de cuisine</h2>
 		<p>Velouté de châtaignes au foie gras</p>
 		<img src="graphics/inspiration-veloute-chataignes.jpg" class="imagecontenu" width="190" alt="Recette velouté de châtaignes au foie gras" />
