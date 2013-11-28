@@ -73,4 +73,32 @@
 		}*/
 	}
 
+	document.getElementsByClassName = function(cl)
+	{
+		//alert("getElementsByClassName perso");
+	    var retnode = [];
+	    var myclass = new RegExp('\\b'+cl+'\\b');
+	    var elem = this.getElementsByTagName('*');
+	    for (var i = 0; i < elem.length; i++)
+	    {
+	        var classes = elem[i].className;
+	        if (myclass.test(classes))
+	            retnode.push(elem[i]);
+	    }
+	    return retnode;
+	};
+
+	function switchChapitre(num) {
+		listeChapitres = document.getElementsByClassName('divChapitre');
+		for (var i in listeChapitres) {
+			listeChapitres[i].setAttribute('class', 'chapitreInactif divChapitre');
+			listeChapitres[i].className = 'chapitreInactif divChapitre';// pour IE
+		}
+		var nomChapitre = "chapitre"+num ;
+		var actif = document.getElementById(nomChapitre);
+		actif.setAttribute('class', 'chapitreActif divChapitre');
+		actif.className = 'chapitreActif divChapitre';// pour IE
+	}
+
+
 </script>

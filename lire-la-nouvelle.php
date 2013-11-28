@@ -1,4 +1,74 @@
 <div id="wrapper">
-    <h1>Culin'R</h1>
-	<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+	<div id="chapitre1" class="chapitreActif divChapitre">
+		<div class="pageLivre">
+		    <?php include_once("pages/chapitre1.php"); ?>
+		</div>
+		<div class="chapitreNav">
+			<span class="navGrise">Chapitre précédent</span> - <span><a href="#" onclick="switchChapitre(2)">Chapitre suivant</a></span>
+		</div>
+	</div>
+	<div id="chapitre2" class="chapitreInactif divChapitre">
+		<div class="pageLivre">
+		   <?php include_once("pages/chapitre2.php"); ?>
+		</div>
+		<div class="chapitreNav">
+			<span><a href="#" onclick="switchChapitre(1)">Chapitre précédent</a></span> - <span><a href="#" onclick="switchChapitre(3)">Chapitre suivant</a></span>
+		</div>
+	</div>
+	<div id="chapitre3" class="chapitreInactif divChapitre">
+		<div class="pageLivre">
+			<?php include_once("pages/chapitre3.php"); ?>
+		</div>
+		<div class="chapitreNav">
+			<span><a href="#" onclick="switchChapitre(2)">Chapitre précédent</a></span> - <span><a href="#" onclick="switchChapitre(4)">Chapitre suivant</a></span>
+		</div>
+	</div>
+	<div id="chapitre4" class="chapitreInactif divChapitre">
+		<div class="pageLivre">
+			<?php include_once("pages/chapitre4.php"); ?>
+		</div>
+		<div class="chapitreNav">
+			<span><a href="#" onclick="switchChapitre(3)">Chapitre précédent</a></span> - <span><a href="#" onclick="switchChapitre(5)">Chapitre suivant</a></span>
+		</div>
+	</div>
+	<div id="chapitre5" class="chapitreInactif divChapitre">
+		<div class="pageLivre">
+		    <?php include_once("pages/chapitre5.php"); ?>
+		</div>
+		<div class="chapitreNav">
+			<span><a href="#" onclick="switchChapitre(4)">Chapitre précédent</a></span> - <span><a href="#" onclick="switchChapitre(6)">Chapitre suivant</a></span>
+		</div>
+	</div>
+	<div id="chapitre6" class="chapitreInactif divChapitre">
+		<div class="pageLivre">
+		    <?php include_once("pages/chapitre6.php"); ?>
+		</div>
+		<div class="chapitreNav">
+			<span><a href="#" onclick="switchChapitre(5)">Chapitre précédent</a></span> - <span><a href="#" onclick="switchChapitre(7)">Chapitre suivant</a></span>
+		</div>
+	</div>
+	<div id="chapitre7" class="chapitreInactif divChapitre">
+		<div class="pageLivre">
+		    <?php include_once("pages/chapitre7.php"); ?>
+		</div>
+		<div class="chapitreNav">
+			<span><a href="#" onclick="switchChapitre(6)">Chapitre précédent</a></span> - <span><a href="#" onclick="switchChapitre(8)">Chapitre suivant</a></span>
+		</div>
+	</div>
+	<div id="chapitre8" class="chapitreInactif divChapitre">
+		<div class="pageLivre">
+		    <?php include_once("pages/chapitre8.php"); ?>
+		</div>
+		<div class="chapitreNav">
+			<span><a href="#" onclick="switchChapitre(7)">Chapitre précédent</a></span> - <span><a href="#" onclick="switchChapitre(9)">Chapitre suivant</a></span>
+		</div>
+	</div>
+	<div id="chapitre9" class="chapitreInactif divChapitre">
+		<div class="pageLivre">
+		    <?php include_once("pages/chapitre9.php"); ?>
+		</div>
+		<div class="chapitreNav">
+			<span><a href="#" onclick="switchChapitre(8)">Chapitre précédent</a></span> - <span class="navGrise">Chapitre suivant</span>
+		</div>
+	</div>
 </div>

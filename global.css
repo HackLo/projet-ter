@@ -104,6 +104,7 @@ header #divLogo img {
 }
 
 #divNavContent {
+	/*background-color: yellow;*/
 	color: white;
  	font-family: "agency_fb", arial ;
 	font-size: 20px;
@@ -115,10 +116,38 @@ header #divLogo img {
  	width: 100%;
 }
 
+#divNavContent #monNav {
+	border: 0px red solid;
+	position: relative;
+	top: 0;
+
+	transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+}
+
 nav {
  	margin: 0;
 	padding: 0;
 	z-index: 200;
+
+	/*transform: translateY(50%);
+	-webkit-transform: translateY(50%);
+	-moz-transform: translateY(50%);
+	position: relative;
+	width: 230px;
+	background-color: red;*/
+	position: absolute;
+	top: 50%;
+	
+}
+
+nav > ul {
+	border: 0px red solid;
+	/*position: absolute;
+	top: 50%;
+	background-color: blue;*/
+	width:230px;
 }
 
 nav a {
@@ -227,6 +256,32 @@ h2{
 	margin-right:5px;
 }
 
+.chapitreActif {
+	display: block;
+}
+
+.chapitreInactif {
+	display: none;
+}
+
+.chapitreNav {
+	border-top: 1px gray solid;	
+	margin-top: 24px;
+	padding-top: 12px;
+	text-align: center;
+}
+
+.navGrise {
+	color: gray;
+}
+
+#chapitre1 {
+
+}
+
+#chapitre2 {
+
+}
 
 /* ------------------------------ FOOTER ------------------------------------- */
 footer {
