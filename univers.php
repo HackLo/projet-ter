@@ -16,7 +16,7 @@
     
 
 	<h2>Les chiwongas</h2>
-  	<p><img src="graphics/chiwongas.jpg" width="229" height="133" alt="Chiwongas" class="imagecontenu" /> On dit du chiwonga qu'il est apparu suite à la création du soleil artificiel, subtile mélange de deux fruits appelés par les légendes poire et ananas. Malgré les apparences, un chiwonga mûr doit posséder une enveloppe à la texture plutôt souple. Sa chair est juteuse et fraichement parfumée, avec une consistance douce et crémeuse. Au goût, sa pulpe tendre et sucrée évoque la vanille. Le chiwonga est très nourrissant et doit être mangé à maturité pour assurer toute sa saveur. Ce fruit d'environ 5 cm de diamètre pousse en grappe sur des arbres et s'assèche en vieillissant.</p>
+  	<p><img src="graphics/chiwongas.jpg" width="229" height="133" alt="Chiwongas" class="imagecontenu" /> On dit du chiwonga qu'il est apparu suite à la création du soleil artificiel, subtile mélange de deux fruits appelés par les légendes poire et ananas. Malgré les apparences, un chiwonga mûr doit posséder une enveloppe à la texture plutôt souple. Sa chair est juteuse et fraichement parfumée, avec une consistance douce et crémeuse. Au goût, sa pulpe tendre et légèrement sucrée évoque la pastèque. Le chiwonga est très nourrissant et doit être mangé à maturité pour assurer toute sa saveur. Ce fruit d'environ 5 cm de diamètre pousse en grappe sur des arbres et s'assèche en vieillissant.</p>
 	
 
 </div>
