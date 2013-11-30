@@ -11,6 +11,6 @@
 	<p>Les votes seront clos le 31 janvier. C’est alors que notre équipe d’écrivains entrera en piste pour composer ce nouvel épisode tel que vous l'aurez imaginé et élu ! Une fois postée sur le site, il ne te restera plus qu’à la déguster !</p>
 	<p>Alors si tu as envie de cuisiner le futur de Raynor Hell à ta propre sauce, ne perds plus une minute et jette-toi sur ton clavier !</p>
 	
-	<h3>Pour voter, c'est ici: <a href="https://www.facebook.com/CulinR" class="reseauxsociaux" target="_blank"><img src="graphics/facebook.png" alt="Page Facebook Culin'R" /></a> <a href="https://twitter.com/CulinR" class="reseauxsociaux" target="_blank"><img src="graphics/twitter.png" alt="Page Twitter Culin'R" /></a></h3>
+	<h3>Pour voter, c'est ici : <a href="https://www.facebook.com/CulinR" class="reseauxsociaux" target="_blank"><img src="graphics/facebook.png" alt="Page Facebook Culin'R" /></a> <a href="https://twitter.com/CulinR" class="reseauxsociaux" target="_blank"><img src="graphics/twitter.png" alt="Page Twitter Culin'R" /></a></h3>
 
 </div>
