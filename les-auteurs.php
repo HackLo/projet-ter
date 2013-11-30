@@ -1,4 +1,6 @@
 <div id="wrapper">
     <h1>Les auteurs</h1>
-	<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+
+	<h2>Esther</h2>
+	<p>Ce qui compte avant tout pour moi dans la gastronomie, c’est le plaisir de déguster un plat savoureux préparé avec amour. C’est bien pour cela que l’on fait autant d’efforts ! Mon gros problème dans tout cela : la novice en cuisine que je suis a bien du mal à  préparer un plat goûtu ! C’est pourquoi j’espère que la cuisine du futur nous amènera des machines capables de réaliser à notre place les gestes les plus compliqués pour nous laisser nous concentrer davantage sur la découverte de nouvelles associations de saveurs.</p></br>
 </div>
