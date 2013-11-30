@@ -227,7 +227,7 @@ h2{
 
 #wrapper a {
 	color:#FFF;
-	text-decoration:none;
+	text-decoration:underline;
 }
 
 #wrapper a:hover {
@@ -485,12 +485,10 @@ footer {
 	
 	#wrapper a {
 		color:#282828;
-		text-decoration:none;
 	}
 	
 	#wrapper a:hover {
 		color:#282828;
-		text-decoration:underline;
 	}
 
 	.blocleft {
