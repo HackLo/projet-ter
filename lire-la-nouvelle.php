@@ -68,7 +68,23 @@
 		    <?php include_once("pages/chapitre9.php"); ?>
 		</div>
 		<div class="chapitreNav">
-			<span>< <a href="#" onclick="switchChapitre(8)">Précédent</a></span>
+			<span>< <a href="#" onclick="switchChapitre(8)">Précédent</a></span> - <span><a href="#" onclick="switchChapitre(10)">Suivant</a> ></span>
+		</div>
+	</div>
+    <div id="chapitre10" class="chapitreInactif divChapitre">
+		<div class="pageLivre">
+		    <?php include_once("pages/chapitre10.php"); ?>
+		</div>
+		<div class="chapitreNav">
+			<span>< <a href="#" onclick="switchChapitre(9)">Précédent</a></span> - <span><a href="#" onclick="switchChapitre(11)">Suivant</a> ></span>
+		</div>
+	</div>
+    <div id="chapitre11" class="chapitreInactif divChapitre">
+		<div class="pageLivre">
+		    <?php include_once("pages/chapitre11.php"); ?>
+		</div>
+		<div class="chapitreNav">
+			<span>< <a href="#" onclick="switchChapitre(10)">Précédent</a></span>
 		</div>
 	</div>
 </div>
