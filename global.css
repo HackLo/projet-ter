@@ -323,11 +323,6 @@ footer {
 	width: 25px;
 }
 
-.infobulle {
-	padding-left:40px;
-}
-
-
 
 /* ----------------------------------------------------------------------------------------------------------------------------------------
                                AFFICHAGE > 840 PIXELS
@@ -413,6 +408,31 @@ footer {
 	/* ----------------------------------- FOOTER --------------------------- */
 	footer{
 		width:230px;
+	}
+	
+	.infobulle {
+		padding-left:40px;
+	}
+	
+	a.infobulle span {
+		display: none; /* On masque l'infobulle. */
+	}
+	
+	a.infobulle:hover span {
+		display: inline; /* On affiche l'infobulle. */
+		position: absolute;
+		white-space: nowrap;
+		height:40px;
+		width:95px;
+		top:-55px;
+		left:124px;
+		background-color: rgba(40, 40, 40, 1);
+		color:#FFF;
+		font-family:arial;
+		font-size:11px;
+		border-radius:5px;
+		padding-top:10px;
+		border:1px #303030 solid;
 	}
 
 	
@@ -563,5 +583,27 @@ footer {
 		padding-top: 12px;
 		position: relative;
 		text-align: center;
+	}
+	
+	.infobulle {
+		padding-left:40px;
+	}
+	
+	a.infobulle span {
+		display: none; /* On masque l'infobulle. */
+	}
+	
+	a.infobulle:hover span {
+		display: inline; /* On affiche l'infobulle. */
+		position: absolute;
+		white-space: nowrap;
+		height:40px;
+		width:95px;
+		background-color: rgba(48, 48, 48, 1);
+		color:#FFF;
+		font-family:arial;
+		font-size:11px;
+		border-radius:5px;
+		padding-top:10px;
 	}
 }
