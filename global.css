@@ -243,6 +243,12 @@ h2{
 	line-height:0px;
 }
 
+.citation {
+	text-align:right;
+	font-style:italic;
+	margin-top:0;
+}
+
 .blocleft {
 	width:210px;
 	height:280px;
@@ -281,13 +287,6 @@ h2{
 	color: gray;
 }
 
-#chapitre1 {
-
-}
-
-#chapitre2 {
-
-}
 
 /* ------------------------------ FOOTER ------------------------------------- */
 footer {
