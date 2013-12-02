@@ -23,6 +23,16 @@
 		<p>Les habitants de la petite communauté de Chester's Mill se réveillent un matin coupés du monde et piégés dans la ville par un immense dôme transparent. Certains tenteront de tirer profit de cette situation inexpliquée afin de prendre le pouvoir. Mais une résistance va s'organiser  pour empêcher ces personnes de parvenir à leur fin. Ce dôme est à l'origine même de l'idée des deux univers de cette nouvelle.</p>
 	</div>
 	<div style="clear: both;"></div>
+    
+    <div class="blocleft">
+		<h2>Bio-Dome</h2>
+		<p>Film de Jason Bloom</p>
+		<img src="graphics/inspiration-biodome.jpg" class="imagecontenu" width="190" alt="Bio-Dome" />
+	</div>
+	<div class="blocright">
+		<p>Deux amis se retrouvent accidentellement enfermés dans un complexe scientifique appelé "Bio-Dôme". Ce dernier, situé dans le désert de l'Arizona, consiste en une expérience écologique d'une durée d'un an. Cette comédie tourne autour d'une question : Bud et Doyle seront-ils capables de s'adapter à ce nouvel environnement ? Ce film est une autre inspiration de l'idée des deux univers et du dôme.</p>       
+	</div>
+	<div style="clear: both;"></div>
 
 	<div class="blocleft">
 		<h2>Living Tomorrow</h2>
@@ -30,7 +40,7 @@
 		<img src="graphics/inspiration-livingtomorrow.jpg" class="imagecontenu" width="190" alt="Living Tomorrow" />
 	</div>
 	<div class="blocright">
-		<p>Living Tomorrow est un lieu de rencontres pour les entreprises novatrices. Il leur permet de faire connaître aux visiteurs des produits et services qui pourraient améliorer la qualité de vie et de travail, dans un futur proche. Ce projet a inspiré notre vision de la maison d'Ed Gaïa, notamment la maison de Vilvorde pour l'espace intérieur et la cuisine. Il est possible de visiter cette maison à travers cette <a href="http://www.youtube.com/watch?v=9DJr8QwgLEA" target="_blank"><u>vidéo</u></a>.</p>
+		<p>Living Tomorrow est un lieu de rencontres pour les entreprises novatrices. Il leur permet de faire connaître aux visiteurs des produits et services qui pourraient améliorer la qualité de vie et de travail, dans un futur proche. Ce projet a inspiré notre vision de la maison d'Ed Gaïa, notamment la maison de Vilvorde pour l'espace intérieur et la cuisine. Il est possible de visiter cette maison à travers cette <a href="http://www.youtube.com/watch?v=9DJr8QwgLEA" target="_blank">vidéo</a>.</p>
 	</div>
 	<div style="clear: both;"></div>
     
@@ -50,7 +60,7 @@
 		<img src="graphics/inspiration-veloute-chataignes.jpg" class="imagecontenu" width="190" alt="Recette velouté de châtaignes au foie gras" />
 	</div>
 	<div class="blocright">
-		<p>La nouvelle présente une délicieuse recette de cuisine traditionnelle : le velouté de châtaignes au foie gras. Recette de fête, cette préparation peut être servie avec de fines tranches de foie gras ou des morceaux de lard croustillants. Le goût présent et très agréable de la châtaigne se marie très bien avec le foie gras. Pour les amateurs de cuisine, la recette est disponible <a href="http://www.marmiton.org/recettes/recette_veloute-de-chataignes-au-foie-gras_46124.aspx" target="_blank"><u>ici</u></a>.</p>
+		<p>La nouvelle présente une délicieuse recette de cuisine traditionnelle : le velouté de châtaignes au foie gras. Recette de fête, cette préparation peut être servie avec de fines tranches de foie gras ou des morceaux de lard croustillants. Le goût présent et très agréable de la châtaigne se marie très bien avec le foie gras. Pour les amateurs de cuisine, la recette est disponible <a href="http://www.marmiton.org/recettes/recette_veloute-de-chataignes-au-foie-gras_46124.aspx" target="_blank">ici</a>.</p>
 	</div>
 
 </div>

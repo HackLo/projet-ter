@@ -42,6 +42,12 @@ a:active {
 	     url('font/agency_fb.ttf') format('truetype');
 }
 
+@font-face {
+	font-family: 'WinterthurCondensed';
+	src: url('font/WinterthurCondensed.ttf') format('truetype');
+}
+
+
 /* ------------------------------ HEADER ------------------------------------- */
 #blocNavigationPourMobileIn, #blocNavigationPourMobileOut {
 	display: none;
@@ -107,7 +113,7 @@ header #divLogo img {
 	/*background-color: yellow;*/
 	color: white;
  	font-family: "agency_fb", arial ;
-	font-size: 20px;
+	font-size:20px;
 	text-transform:uppercase;
 }
 #divNavContent a {
@@ -201,7 +207,7 @@ nav > ul > li > ul {
 	padding: 50px;
 	padding-top:120px;
 	text-align:justify;
-	z-index: 0;		
+	z-index: 0;
 }
 
 h1{
@@ -221,7 +227,7 @@ h2{
 
 #wrapper a {
 	color:#FFF;
-	text-decoration:none;
+	text-decoration:underline;
 }
 
 #wrapper a:hover {
@@ -253,7 +259,7 @@ h2{
 	float:left;
 	margin-top:15px;
 	margin-bottom:5px;
-	margin-right:5px;
+	margin-right:15px;
 }
 
 .chapitreActif {
@@ -460,7 +466,7 @@ footer {
 		display:block;
 	}
 	nav > ul > li > ul {
-		font-size: 15px;
+		font-size: 16px;
 	}
 	/* ---------------------------------- CONTENT --------------------------- */
 	#imageAccueilMobile {
@@ -479,12 +485,10 @@ footer {
 	
 	#wrapper a {
 		color:#282828;
-		text-decoration:none;
 	}
 	
 	#wrapper a:hover {
 		color:#282828;
-		text-decoration:underline;
 	}
 
 	.blocleft {
