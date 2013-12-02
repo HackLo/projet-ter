@@ -22,7 +22,7 @@
     <p><?php echo $errorMsg; ?></p>
 	<form id='contact' method="post" action="index.php?page=contact" enctype="multipart/form-data">
 		<p id='obj'>
-			<label for='objet'>Objet de votre message :<br>
+			<label for='objet'>Objet de votre message<br>
   				<input type='text' name='objet' id='objet' tabindex='10' size='30'>
   			</label>
   		</p> 
@@ -35,7 +35,7 @@
   
 		<p id="msg">
 			<label for="message">Votre message<br>
-				<textarea tabindex="30" rows="20" cols="50" name="message" id="message"></textarea>
+				<textarea tabindex="30" rows="10" cols="50" name="message" id="message"></textarea>
 			</label>
 		</p>
 		<input type="submit"/>
