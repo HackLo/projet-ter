@@ -285,10 +285,17 @@ h2 {
 	color: gray;
 }
 
-a .participer {
-	margin-left:10px;
+.bouton-participer {
+	text-align:center;
 }
 
+.bouton-twitter {
+	margin-left:5%;
+}
+
+.bouton-facebook {
+	margin-right:5%;
+}
 
 /* ------------------------------ FOOTER ------------------------------------- */
 footer {
