@@ -225,6 +225,14 @@ h2 {
 	text-decoration:underline;
 }
 
+#wrapper a.nonSouligne {
+	text-decoration: none;
+}
+
+#wrapper a:hover.nonSouligne {
+	text-decoration: underline;
+}
+
 #wrapper li {
 	list-style-type:disc;
 }
