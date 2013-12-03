@@ -1,33 +1,31 @@
 /* -------------------------------------------------------------------------
 	FEUILLE CSS 
-	Auteur : Loïc Barouty
+	Auteur : Esther Wiest
+	Auteur : Loïc Barouty 
+	Auteur : Lucas Leroux
+	Auteur : Mélanie Roy
+	Auteur : Romain Ouvrard
+	Auteur : Vasylyna Golovnya
 	Date : 07/10/2013
-	Version : 0.1
+	Version : 0.5
 ---------------------------------------------------------------------------- */
 /* ----------------------------------------------------------------------------------------------------------------------------------------
                                  TOUT AFFICHAGE
  ------------------------------------------------------------------------------------------------------------------------------------------*/
  /* ----------------------------- GENERAL ----------------------------------- */
  body {
+ 	/* Fond d'écran du site web */
 	background: url("graphics/bgV1.jpg") no-repeat center fixed; 
 	-webkit-background-size: cover; /* pour Chrome et Safari */
 	-moz-background-size: cover; /* pour Firefox */
 	-o-background-size: cover; /* pour Opera */
 	background-size: cover;
-
 	background-attachment: fixed;
+
 	color: white;
 	margin: 0;
 	padding: 0;
 	width: auto;
-}
-
-a:active {
- 	background-color: inherit;
-}
-
-a:active {
- 	background-color: inherit;
 }
 
 a:active {
@@ -52,7 +50,8 @@ img {
 }
 
 
-/* ------------------------------ HEADER ------------------------------------- */
+/* ------------------------------ H E A D E R ------------------------------------- */
+/* Icone d'affichage du menu en mode mobile */
 #blocNavigationPourMobileIn, #blocNavigationPourMobileOut {
 	display: none;
 }
@@ -73,12 +72,12 @@ header > div {
 	height: 100%;
 }
 
-header #divLogo {
+#divLogo {
 	padding: 24px 0px;
 	width: 100%;
 }
 
-header #divLogo img {
+#divLogo img {
 	border : none;
 	height: 75px;
 	width: 115px;
@@ -125,38 +124,25 @@ header #divLogo img {
  	text-decoration: none;
  	width: 100%;
 }
+#divNavContent > ul > ul > li:hover > a {
+	color: #474747;
+}
 
 #divNavContent #monNav {
 	border: 0px red solid;
 	position: relative;
 	top: 0;
-
-	/*transform: translateY(-50%);
-	-webkit-transform: translateY(-50%);
-	-moz-transform: translateY(-50%);*/
 }
 
 nav {
  	margin: 0;
 	padding: 0;
-	z-index: 200;
-
-	/*transform: translateY(50%);
-	-webkit-transform: translateY(50%);
-	-moz-transform: translateY(50%);
-	position: relative;
-	width: 230px;
-	background-color: red;
-	
-	top: 50%;*/
 	position: absolute;
+	z-index: 200;
 }
 
 nav > ul {
 	border: 0px red solid;
-	/*position: absolute;
-	top: 50%;
-	background-color: blue;*/
 	width:230px;
 }
 
@@ -214,17 +200,17 @@ nav > ul > li > ul {
 	z-index: 0;
 }
 
-h1{
+h1 {
 	font-family: "agency_fb", arial ;
 	font-size:26px;
+	font-weight:100;
 	margin-bottom:30px;
 	text-transform:uppercase;
-	font-weight:100;
 }
 
-h2{
-	font-weight:bold;
+h2 {
 	font-size:14px;
+	font-weight:bold;
 	margin-bottom:-10px;
 	text-transform:uppercase;
 }
@@ -248,28 +234,28 @@ h2{
 }
 
 .citation {
-	text-align:right;
 	font-style:italic;
 	margin-top:0;
+	text-align:right;
 }
 
 .blocleft {
-	width:210px;
-	height:280px;
 	float:left;
+	height:280px;
+	width:210px;
 }
 
 .blocright {
-	width:240px;
-	height:280px;
 	float:right;
+	height:280px;
+	width:240px;
 }
 
 .imagecontenu {
 	float:left;
 	margin-top:15px;
-	margin-bottom:5px;
 	margin-right:15px;
+	margin-bottom:5px;
 }
 
 .chapitreActif {
@@ -291,24 +277,29 @@ h2{
 	color: gray;
 }
 
+a .participer {
+	margin-left:10px;
+}
+
 
 /* ------------------------------ FOOTER ------------------------------------- */
 footer {
-	position:fixed;
-	bottom:0;
-	left:0;
-	text-align:center;
-	padding-bottom:5px;
+	bottom: 0;
+	height: 75px;
+	left: 0;
+	padding-bottom: 5px;
+	position: fixed;
+	text-align: center;
 	z-index: 30;
-	height:75px;
+	
 }
 
 .copyright {
 	color:rgba(137, 137, 137, 1);
-	font-family:arial;
-	font-size:9px;
-	line-height:5px;
-	width:100%;	
+	font-family: arial;
+	font-size: 9px;
+	line-height: 5px;
+	width: 100%;	
 }
 
 .copyright a {
@@ -317,13 +308,13 @@ footer {
 
 
 .reseauxsociaux {
-	width:100%;	
+	width: 100%;	
 }
 
 .reseauxsociaux img  {
 	border : none;
 	height: 25px;
-	padding-right:10px;
+	padding-right: 10px;
 	width: 25px;
 }
 
@@ -382,40 +373,40 @@ footer {
 
 	/* ---------------------------------- CONTENT --------------------------- */
 	#wrapper {
-		margin-left: 270px;
 		min-height: 100%;
+		margin-left: 270px;
 		position: absolute;
 		top: 0px;
 		width: 450px;
 	}
 	
 	.partage {
-	padding-top:40px;
-	padding-left:60px;
+		padding-top: 40px;
+		padding-left: 60px;
 	}
 	
 	.partagetwitter {
-		width:120px;
-		float:left;
+		float: left;
+		width: 120px;
 	}
 	
 	.partagefacebook {
-		width:130px;
-		float:left;
+		float: left;
+		width: 130px;
 	}
 	
 	.partagegoogleplus {
-		width:120px;
-		float:left;
+		float: left;
+		width: 120px;
 	}
 
 	/* ----------------------------------- FOOTER --------------------------- */
 	footer{
-		width:230px;
+		width: 230px;
 	}
 	
 	.infobulle {
-		padding-left:40px;
+		padding-left: 40px;
 	}
 	
 	a.infobulle span {
@@ -423,23 +414,21 @@ footer {
 	}
 	
 	a.infobulle:hover span {
-		display: inline; /* On affiche l'infobulle. */
-		position: absolute;
-		white-space: nowrap;
-		height:40px;
-		width:95px;
-		top:-55px;
-		left:124px;
 		background-color: rgba(40, 40, 40, 1);
+		border:1px #303030 solid;
+		border-radius:1px;
 		color:#FFF;
+		display: inline; /* On affiche l'infobulle. */
 		font-family:arial;
 		font-size:11px;
-		border-radius:1px;
+		height: 40px;
+		left: 124px;
 		padding-top:10px;
-		border:1px #303030 solid;
+		position: absolute;
+		top: -55px;
+		white-space: nowrap;
+		width: 95px;		
 	}
-
-	
 }
 
 /* ----------------------------------------------------------------------------------------------------------------------------------------
@@ -449,8 +438,8 @@ footer {
 @media handheld, only screen and (max-device-width: 841px), only screen and (max-width: 841px) { /* 839px */
 	/* --------------------------- BODY MOBILE ------------------------------------ */
 	body {
-		background-image: none;
 		background-color: #282828;
+		background-image: none;
 		margin: 0 auto;
 		width: 100%;
 	}
@@ -468,7 +457,7 @@ footer {
 		height: 100%;
 	}
 
-	header #divLogo {
+	#divLogo {
 		border: 0px green solid;
 		display: block;
 		margin: 0;
@@ -476,7 +465,7 @@ footer {
 		padding-top: 12px;
 		padding-bottom: 18px;
 	}
-	header #divLogo img {
+	#divLogo img {
 		height: 30%;
 		margin: 0;
 		padding: 0;
@@ -607,16 +596,16 @@ footer {
 	}
 	
 	a.infobulle:hover span {
+		background-color: rgba(48, 48, 48, 1);
+		border-radius: 1px;
+		color:#FFF;
 		display: inline; /* On affiche l'infobulle. */
+		font-family: arial;
+		font-size: 11px;
+		height: 40px;
+		padding-top: 10px;
 		position: absolute;
 		white-space: nowrap;
-		height:40px;
-		width:95px;
-		background-color: rgba(48, 48, 48, 1);
-		color:#FFF;
-		font-family:arial;
-		font-size:11px;
-		border-radius:1px;
-		padding-top:10px;
+		width: 95px;
 	}
 }

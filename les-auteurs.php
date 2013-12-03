@@ -15,10 +15,17 @@
     	<img src="graphics/guillemets1.png" alt="«" width="23" height="16" /> Ma vision de la cuisine se résume en quelques mots : improviser, marier les saveurs et surtout partager ! La cuisine est un art, l'art de préparer le repas pour l'odorat, l'art de dresser l'assiette pour la vue et l'art de déguster le plat pour le goût. Rien ne se perd, tous se transforme. C'est pourquoi, en tant qu'étudiante au petit porte-monnaie, je crois en la possibilité de réaliser de bons plats avec seulement peu de chose et de simples ingrédients. En revanche, je n'imagine pas encore bien de quoi la cuisine du futur pourrait être faite... <img src="graphics/guillemets2.png" alt="»" width="23" height="16" />
     	<p class="citation">Mélanie</p>
 	</blockquote></br>
+<<<<<<< HEAD
 	
 	<blockquote>
 	<img src="graphics/guillemets1.png" alt="«" width="23" height="16" /> Pour moi, la cuisine c’est avant tout quelque chose d’inattendu. J’improvise souvent et essaye de trouver des nouveaux goûts même si le plat risque d’être loin de la recette d’origine. J’apprécie les ingrédients simples mais qui permettraient de préparer une véritable surprise. C’est pourquoi, à mon avis, la cuisine du futur serait idéale si elle nous laissait de faire des choses recherchées en quelques gestes simples ! <img src="graphics/guillemets2.png" alt="»" width="23" height="16" />
     	<p class="citation">Mélanie</p>
+=======
+    
+        <blockquote>
+    	<img src="graphics/guillemets1.png" alt="«" width="23" height="16" /> Ma vision de la cuisine réside avant tout dans un profond respect des matières premières. Choisir un produit de qualité est, pour moi, la première démarche essentielle à la conception d'un plat goûteux. J'attache également beaucoup d'importance à la provenance de ces mets et à leur impact écologique. Je favorise les produits issus des circuits courts entre producteurs et consommateurs et privilégie l'agriculture biologique. Dans l'assiette, je préfère une cuisine sans fioriture qui met en exergue les goûts bruts des aliments. <img src="graphics/guillemets2.png" alt="»" width="23" height="16" />
+    	<p class="citation">Romain</p>
+>>>>>>> d17f1b47e54aaa97062b9a31c8ac2bc2a2397efb
 	</blockquote></br>
 
 </div>

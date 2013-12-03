@@ -1,8 +1,0 @@
-<p>Enfin de retour, Ed Gaïa me souhaita la bienvenue comme un frère. Pendant une longue heure, je lui narrai mon retour houleux, les disputes avec mes pairs et mes doutes sur ce que le futur me réservait. Projetant de lui faire une surprise, je lui demandai de me laisser la cuisine pour préparer un plat à ma façon.<br/>Je me plongeais dans les ustensiles pour oublier mon exil forcé. Je préparai la recette du velouté en incluant mes champignons. À ma connaissance, le jus de ce champignon était utilisé pour l’enrobage de nos gélules protéinées ; j’ignorais si c’était pertinent de l’inclure, mais j’espérais un résultat fructueux.<br/>Je reproduisis chaque geste d’Ed Gaïa, non sans une virtuosité qui me surprit moi-même. Le résultat fut satisfaisant pour l’œil, à l’exception du foie qui, dénervé, ne ressemblait plus à grand chose. Je l’invitai immédiatement à sa propre table pour déguster ma version du plat.<br/>
-— Il y a encore du progrès à faire au niveau de la présentation ! me dit-il l’air goguenard.<br/>
-— Attends de manger avant de juger ma création !<br/>
-Je ne tins pas plus de quelques bouchées avant de lui demander son avis :<br/>
-— Alors, que penses-tu de mon interprétation du plat ?<br/>
-— Si tu veux que je sois tout à fait honnête, c’est assez ressemblant à la recette originale, mais je soupçonne un léger problème de dosage dans le velouté.<br/>
-— J’ai rajouté des champignons de chez moi dedans !<br/>
-— Ah d’accord, je me demandais d’où venait cette amertume.</p>
