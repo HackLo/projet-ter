@@ -494,7 +494,7 @@ footer {
 	/* --------------------------- MENU MOBILE ---------------------------------- */
 	nav {
 		border: 0px red solid;
-		display: block;
+		display: none;
 		position: relative;
 		width: 100%;
 	}
@@ -520,6 +520,9 @@ footer {
 	}
 	nav > ul > li > ul {
 		font-size: 16px;
+	}
+	nav > ul > li > ul > li > a {
+		line-height: 20px;
 	}
 	/* ---------------------------------- CONTENT --------------------------- */
 	#imageAccueilMobile {
