@@ -22,7 +22,7 @@
 	background-size: cover;
 	background-attachment: fixed;
 
-	color: white;
+	/*color: white;*/
 	margin: 0;
 	padding: 0;
 	width: auto;
@@ -180,6 +180,9 @@ nav > ul > li > ul {
 	padding: 0;
 }
 
+#divNavContent > nav > ul > li > ul > li:hover {
+	color: rgba(137, 137, 137, 1);
+}
 #divNavContent > nav > ul > li > ul > li:hover > a {
 	color: rgba(137, 137, 137, 1);
 }
@@ -289,6 +292,13 @@ h2 {
 	margin-left:20px;
 }
 
+.bouton-facebook {
+	margin-right:20px;
+}
+
+.bouton-twitter {
+	margin-left:20px;
+}
 
 /* ------------------------------ FOOTER ------------------------------------- */
 footer {
