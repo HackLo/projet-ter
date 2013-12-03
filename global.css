@@ -34,6 +34,10 @@ a:active {
  	background-color: inherit;
 }
 
+img {
+	border:none;
+}
+
 /* ----------------------------------- POLICES --------------------------- */
 /* Pour ajouter des polices d'éciture via le dossier font. */
 @font-face {

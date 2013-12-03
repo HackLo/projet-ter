@@ -38,6 +38,6 @@
 				<textarea tabindex="30" rows="10" cols="50" name="message" id="message"></textarea>
 			</label>
 		</p>
-		<input type="submit"/>
+		<input type="submit" value="Envoyer"/>
 	</form>
 </div>
