@@ -12,14 +12,13 @@
 
 
 	<h2>La maison d'Ed Gaïa</h2>
-    <img src="graphics/maison-EdGaia1.jpg" width="208" height="119" alt="Maison d'Ed Gaïa" class="imagecontenu" />
-	<img src="graphics/maison-EdGaia2.jpg" width="208" height="119" alt="Maison d'Ed Gaïa" class="imagecontenu" />
-    <p>Acquisition récompensant une longue vie de labeur, la maison d'Ed Gaïa est le parfait exemple des habitats ultra-modernes qui se développent sous le dôme. Ed passe l'essentiel de son temps dans la cuisine, qui fait manifestement l'objet de toutes ses attentions. L'équipement de cette pièce démontre la capacité des habitants du dôme à développer des solutions à leurs besoins les plus hédonistes tout en conservant de profonds savoir-faire : un plan de travail déformable à souhait lui permet d'exécuter n'importe quelle recette et divers légumes, fruits, épices, viandes et poissons remplissent les rangements, formant une source infinie d'inspiration pour cet amoureux de la gastronomie. Les autres pièces ne sont pas en reste, les objets qu'elles contiennent ne manqueront pas de vous étonner.</p><br />
+    <p>Acquisition récompensant une longue vie de labeur, la maison d'Ed Gaïa est le parfait exemple des habitats ultra-modernes qui se développent sous le dôme. Ed passe l'essentiel de son temps dans la cuisine, qui fait manifestement l'objet de toutes ses attentions. L'équipement de cette pièce démontre la capacité des habitants du dôme à développer des solutions à leurs besoins les plus hédonistes tout en conservant de profonds savoir-faire : un plan de travail déformable à souhait lui permet d'exécuter n'importe quelle recette et divers légumes, fruits, épices, viandes et poissons remplissent les rangements, formant une source infinie d'inspiration pour cet amoureux de la gastronomie. Les autres pièces ne sont pas en reste, les objets qu'elles contiennent ne manqueront pas de vous étonner.</p>
+  <iframe width="420" height="315" src="//www.youtube.com/embed/fUQ9E-c_b4E?rel=0" frameborder="0" allowfullscreen></iframe><br /><br />
+    
 
-
-	<h2>Les chiwongas</h2>
-  	<img src="graphics/chiwongas.jpg" width="229" height="133" alt="Chiwongas" class="imagecontenu" />
+  <h2>Les chiwongas</h2>
+  	<img src="graphics/chiwongas.jpg"  alt="Chiwongas" width="239" height="150" class="imagecontenu" />
     <p>On dit du chiwonga qu'il est apparu suite à la création du soleil artificiel, subtile mélange de deux fruits appelés par les légendes poire et ananas. Malgré les apparences, un chiwonga mûr doit posséder une enveloppe à la texture plutôt souple. Sa chair est juteuse et fraichement parfumée, avec une consistance douce et crémeuse. Au goût, sa pulpe tendre et légèrement sucrée évoque la pastèque. Le chiwonga est très nourrissant et doit être mangé à maturité pour assurer toute sa saveur. Ce fruit d'environ 5 cm de diamètre pousse en grappe sur des arbres et s'assèche en vieillissant.</p>
 	
 
-</div>
+</div>	

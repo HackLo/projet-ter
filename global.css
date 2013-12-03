@@ -44,11 +44,6 @@ img {
 	     url('font/agency_fb.ttf') format('truetype');
 }
 
-@font-face {
-	font-family: 'WinterthurCondensed';
-	src: url('font/WinterthurCondensed.ttf') format('truetype');
-}
-
 
 /* ------------------------------ H E A D E R ------------------------------------- */
 /* Icone d'affichage du menu en mode mobile */
