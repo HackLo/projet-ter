@@ -85,24 +85,18 @@
     
 	
 	<div class="partage">
-        <!-- Partage sur Twitter -->
-        <div class="partagetwitter">
-            <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="Culin'R">Tweet</a>
-            <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-        </div>
-        
-        <!-- Partage sur Facebook -->
-        <div class="partagefacebook">
-            <a name="fb_share" type="button_count" share_url="https://www.facebook.com/CulinR"></a>
-            <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
-        </div>
-        
-        <!-- Partage sur Google+ -->
-        <div class="partagegoogleplus">
-            <g:plusone size="right"></g:plusone>
-            <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
-                {lang: 'fr'}
-            </script>
+		<div class="partagewrapper">
+			<!-- Partage sur Twitter -->
+			<div class="partagetwitter">
+				<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="Culin'R">Tweet</a>
+				<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+			</div>
+			
+			<!-- Partage sur Facebook -->
+			<div class="partagefacebook">
+				<a name="fb_share" type="button_count" share_url="https://www.facebook.com/CulinR"></a>
+				<script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+			</div>
         </div>
 	</div> 
        

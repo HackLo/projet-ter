@@ -22,7 +22,7 @@
 	background-size: cover;
 	background-attachment: fixed;
 
-	/*color: white;*/
+	color: white;
 	margin: 0;
 	padding: 0;
 	width: auto;
@@ -180,9 +180,6 @@ nav > ul > li > ul {
 	padding: 0;
 }
 
-#divNavContent > nav > ul > li > ul > li:hover {
-	color: rgba(137, 137, 137, 1);
-}
 #divNavContent > nav > ul > li > ul > li:hover > a {
 	color: rgba(137, 137, 137, 1);
 }
@@ -276,29 +273,22 @@ h2 {
 	text-align: center;
 }
 
+.headerChapitre1 div {
+	display : inline-block;
+}
+
+.headerChapitre1Synopsis {
+	float: right;
+}
+
 .navGrise {
 	color: gray;
 }
 
-.bouton-participer {
-	text-align:center;
+a .participer {
+	margin-left:10px;
 }
 
-.bouton-facebook {
-	margin-right:20px;
-}
-
-.bouton-twitter {
-	margin-left:20px;
-}
-
-.bouton-facebook {
-	margin-right:20px;
-}
-
-.bouton-twitter {
-	margin-left:20px;
-}
 
 /* ------------------------------ FOOTER ------------------------------------- */
 footer {
@@ -399,24 +389,32 @@ footer {
 	}
 	
 	.partage {
+		overflow: hidden;
 		padding-top: 40px;
 		padding-left: 60px;
 	}
 	
-	.partagetwitter {
+	.partagewrapper, .partagetwitter, .partagefacebook {
 		float: left;
+		margin : 0px;
+		padding: 0px;
+		position: relative;
+	}
+	
+	.partagewrapper {
+		left: 50%;
+	}
+	
+	.partagetwitter {
+		right : 50%;
 		width: 120px;
 	}
 	
 	.partagefacebook {
-		float: left;
+		right: 50%;
 		width: 130px;
 	}
 	
-	.partagegoogleplus {
-		float: left;
-		width: 120px;
-	}
 
 	/* ----------------------------------- FOOTER --------------------------- */
 	footer{
@@ -575,27 +573,34 @@ footer {
 	}
 	
 	.partage {
+		overflow: hidden;
 		padding-top:40px;
 		padding-bottom:20px;
 		margin-left:auto;
    		margin-right:auto;
 	}
 	
+	.partagewrapper {
+		left: 50%;
+	}
+	
+	.partagewrapper, .partagetwitter, .partagefacebook {
+	float: left;
+	margin : 0px;
+	padding: 0px;
+	position: relative;
+	}
+	
 	.partagetwitter {
 		width:75px;
-		float:right;
+		right: 50%;
 	}
 	
 	.partagefacebook {
 		width:100px;
-		float:right;
+		right: 50%;
 	}
 	
-	.partagegoogleplus {
-		width:75px;
-		float:right;
-	}
-
 	/* ----------------------------------- FOOTER --------------------------- */
 	footer {
 		background-color: rgba(40, 40, 40, 1);

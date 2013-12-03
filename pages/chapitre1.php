@@ -1,4 +1,11 @@
+<div class="headerChapitre1">
+<div>
 <h1>Culin'R</h1>
+</div>
+<div class="headerChapitre1Synopsis">
+<p><a href="index.php?page=synopsis">Lire le synopsis</a></p>
+</div>
+</div>
 
 <p>« Adieu mon ami, adieu dôme salutaire… »</p>
 
