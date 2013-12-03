@@ -27,7 +27,7 @@
 	</blockquote></br>
 	
 	<blockquote>
-	<img src="graphics/guillemets1.png" alt="«" width="23" height="16" /> Pour moi, la cuisine c’est avant tout quelque chose d’inattendu. J’improvise souvent et essaye de trouver des nouveaux goûts même si le plat risque d’être loin de la recette originale. J’apprécie les ingrédients simples mais qui permettraient de préparer une véritable surprise. C’est pourquoi, à mon avis, la cuisine du futur serait idéale si elle nous laissait de faire des choses recherchées en quelques gestes simples ! <img src="graphics/guillemets2.png" alt="»" width="23" height="16" />
+	<img src="graphics/guillemets1.png" alt="«" width="23" height="16" /> Pour moi, la cuisine c’est avant tout quelque chose d’inattendu. J’improvise souvent et j'essaye de trouver des nouveaux goûts même si le plat risque d’être loin de la recette originale. J’apprécie les ingrédients simples mais qui permettraient de préparer une véritable surprise. C’est pourquoi, à mon avis, la cuisine du futur serait idéale si elle nous laissait faire des choses recherchées en quelques gestes simples ! <img src="graphics/guillemets2.png" alt="»" width="23" height="16" />
     	<p class="citation">Vasylyna</p>
 	</blockquote></br>
 </div>
