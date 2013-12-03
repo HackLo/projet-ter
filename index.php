@@ -16,6 +16,7 @@
 		<meta name="author" content="Esther WIEST, Loïc BAROUTY, Lucas LEROUX, Mélanie ROY, Romain OUVRARD, Vasylyna GOLOVNYA">
 		<meta name="description" content="Site de médiatisation de la nouvelle de TER">
 		<meta name="keywords" content="nouvelle, ter">
+		<meta name="viewport" content="width=640">
 
 		<!-- LIENS VERS LES FICHIERS CSS -->
 		<link rel="stylesheet" href="global.css">
@@ -23,7 +24,7 @@
 		<!-- AJOUT DU JAVASCRIPT VIA LES FICHIERS CI-DESSOUS -->
 		<?php include_once("scripts/scripts.php"); ?>
 	</head>
-	<body onresize="reorganiser()">
+	<body onresize="reorganiser()" onload="">
 		<!-- INCLUSION DU HEADER -->
 		<?php include_once("header.php"); ?>
 

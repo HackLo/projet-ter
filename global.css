@@ -127,9 +127,9 @@ header #divLogo img {
 	position: relative;
 	top: 0;
 
-	transform: translateY(-50%);
+	/*transform: translateY(-50%);
 	-webkit-transform: translateY(-50%);
-	-moz-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);*/
 }
 
 nav {
@@ -142,10 +142,10 @@ nav {
 	-moz-transform: translateY(50%);
 	position: relative;
 	width: 230px;
-	background-color: red;*/
-	position: absolute;
-	top: 50%;
+	background-color: red;
 	
+	top: 50%;*/
+	position: absolute;
 }
 
 nav > ul {
@@ -410,7 +410,7 @@ footer {
 
 	/* --------------------------- HEADER MOBILE ---------------------------------- */
 	header {
-		border: 0px red solid;
+		border: 0px blue solid;
 		padding-right: 0px;
 		position: relative;
 		width: 100%;
@@ -422,6 +422,7 @@ footer {
 	}
 
 	header #divLogo {
+		border: 0px green solid;
 		display: block;
 		margin: 0;
 		padding: 0px;
@@ -445,19 +446,24 @@ footer {
 
 	/* --------------------------- MENU MOBILE ---------------------------------- */
 	nav {
-		display: none;
+		border: 0px red solid;
+		display: block;
 		position: relative;
 		width: 100%;
 	}
 
 	/* ---------------------------------------- Style des items du menu principal*/
-	nav ul li {
+	nav > ul {
+		position: relative;
+		width: 100%;
+	}
+	nav > ul > li {
 		line-height: 32px;
 		margin: 0;
 		width: 100%;
 	}
 
-	nav > ul > li a {
+	nav > ul > li > a {
 		line-height: 20px;
 	}
 
