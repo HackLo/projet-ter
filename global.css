@@ -1,33 +1,31 @@
 /* -------------------------------------------------------------------------
 	FEUILLE CSS 
-	Auteur : Loïc Barouty
+	Auteur : Esther Wiest
+	Auteur : Loïc Barouty 
+	Auteur : Lucas Leroux
+	Auteur : Mélanie Roy
+	Auteur : Romain Ouvrard
+	Auteur : Vasylyna Golovnya
 	Date : 07/10/2013
-	Version : 0.1
+	Version : 0.5
 ---------------------------------------------------------------------------- */
 /* ----------------------------------------------------------------------------------------------------------------------------------------
                                  TOUT AFFICHAGE
  ------------------------------------------------------------------------------------------------------------------------------------------*/
  /* ----------------------------- GENERAL ----------------------------------- */
  body {
+ 	/* Fond d'écran du site web */
 	background: url("graphics/bgV1.jpg") no-repeat center fixed; 
 	-webkit-background-size: cover; /* pour Chrome et Safari */
 	-moz-background-size: cover; /* pour Firefox */
 	-o-background-size: cover; /* pour Opera */
 	background-size: cover;
-
 	background-attachment: fixed;
+
 	color: white;
 	margin: 0;
 	padding: 0;
 	width: auto;
-}
-
-a:active {
- 	background-color: inherit;
-}
-
-a:active {
- 	background-color: inherit;
 }
 
 a:active {
@@ -52,7 +50,8 @@ img {
 }
 
 
-/* ------------------------------ HEADER ------------------------------------- */
+/* ------------------------------ H E A D E R ------------------------------------- */
+/* Icone d'affichage du menu en mode mobile */
 #blocNavigationPourMobileIn, #blocNavigationPourMobileOut {
 	display: none;
 }
@@ -73,12 +72,12 @@ header > div {
 	height: 100%;
 }
 
-header #divLogo {
+#divLogo {
 	padding: 24px 0px;
 	width: 100%;
 }
 
-header #divLogo img {
+#divLogo img {
 	border : none;
 	height: 75px;
 	width: 115px;
@@ -124,6 +123,9 @@ header #divLogo img {
 	color: white;
  	text-decoration: none;
  	width: 100%;
+}
+#divNavContent > ul > ul > li:hover > a {
+	color: #474747;
 }
 
 #divNavContent #monNav {
@@ -214,7 +216,7 @@ nav > ul > li > ul {
 	z-index: 0;
 }
 
-h1{
+h1 {
 	font-family: "agency_fb", arial ;
 	font-size:26px;
 	margin-bottom:30px;
@@ -222,7 +224,7 @@ h1{
 	font-weight:100;
 }
 
-h2{
+h2 {
 	font-weight:bold;
 	font-size:14px;
 	margin-bottom:-10px;
@@ -468,7 +470,7 @@ footer {
 		height: 100%;
 	}
 
-	header #divLogo {
+	#divLogo {
 		border: 0px green solid;
 		display: block;
 		margin: 0;
@@ -476,7 +478,7 @@ footer {
 		padding-top: 12px;
 		padding-bottom: 18px;
 	}
-	header #divLogo img {
+	#divLogo img {
 		height: 30%;
 		margin: 0;
 		padding: 0;
@@ -607,16 +609,16 @@ footer {
 	}
 	
 	a.infobulle:hover span {
+		background-color: rgba(48, 48, 48, 1);
+		border-radius: 1px;
+		color:#FFF;
 		display: inline; /* On affiche l'infobulle. */
+		font-family: arial;
+		font-size: 11px;
+		height: 40px;
+		padding-top: 10px;
 		position: absolute;
 		white-space: nowrap;
-		height:40px;
-		width:95px;
-		background-color: rgba(48, 48, 48, 1);
-		color:#FFF;
-		font-family:arial;
-		font-size:11px;
-		border-radius:1px;
-		padding-top:10px;
+		width: 95px;
 	}
 }
