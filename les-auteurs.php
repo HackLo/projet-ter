@@ -12,7 +12,7 @@
 	</blockquote></br>
     
     <blockquote>
-    	<img src="graphics/guillemets1.png" alt="«" width="23" height="16" /> Texte <img src="graphics/guillemets2.png" alt="»" width="23" height="16" />
+    	<img src="graphics/guillemets1.png" alt="«" width="23" height="16" /> Ma relation avec la gastronomie est très paradoxale ; autant j’aime profiter d’une alimentation de qualité, autant mes meilleures préparations culinaires se font à base de steaks hachés et légumes en conserve. C’est donc la compétence d’un expert en malbouffe qui a été investie dans cette nouvelle. <img src="graphics/guillemets2.png" alt="»" width="23" height="16" />
     	<p class="citation">Lucas</p>
 	</blockquote></br>
     
