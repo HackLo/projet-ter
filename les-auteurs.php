@@ -25,16 +25,6 @@
     	<img src="graphics/guillemets1.png" alt="«" width="23" height="16" /> Ma vision de la cuisine réside avant tout dans un profond respect des matières premières. Choisir un produit de qualité est, pour moi, la première démarche essentielle à la conception d'un plat goûteux. J'attache également beaucoup d'importance à la provenance de ces mets et à leur impact écologique. Je favorise les produits issus des circuits courts entre producteurs et consommateurs et privilégie l'agriculture biologique. Dans l'assiette, je préfère une cuisine sans fioriture qui met en exergue les goûts bruts des aliments. <img src="graphics/guillemets2.png" alt="»" width="23" height="16" />
     	<p class="citation">Romain</p>
 	</blockquote></br>
-    
-    <blockquote>
-    	<img src="graphics/guillemets1.png" alt="«" width="23" height="16" /> Texte <img src="graphics/guillemets2.png" alt="»" width="23" height="16" />
-    	<p class="citation">Vasylyna</p>
-	</blockquote></br>
-
-        <blockquote>
-    	<img src="graphics/guillemets1.png" alt="«" width="23" height="16" /> Ma vision de la cuisine réside avant tout dans un profond respect des matières premières. Choisir un produit de qualité est, pour moi, la première démarche essentielle à la conception d'un plat goûteux. J'attache également beaucoup d'importance à la provenance de ces mets et à leur impact écologique. Je favorise les produits issus des circuits courts entre producteurs et consommateurs et privilégie l'agriculture biologique. Dans l'assiette, je préfère une cuisine sans fioriture qui met en exergue les goûts bruts des aliments. <img src="graphics/guillemets2.png" alt="»" width="23" height="16" />
-    	<p class="citation">Romain</p>
-	</blockquote></br>
 	
 	<blockquote>
 	<img src="graphics/guillemets1.png" alt="«" width="23" height="16" /> Pour moi, la cuisine c’est avant tout quelque chose d’inattendu. J’improvise souvent et essaye de trouver des nouveaux goûts même si le plat risque d’être loin de la recette originale. J’apprécie les ingrédients simples mais qui permettraient de préparer une véritable surprise. C’est pourquoi, à mon avis, la cuisine du futur serait idéale si elle nous laissait de faire des choses recherchées en quelques gestes simples ! <img src="graphics/guillemets2.png" alt="»" width="23" height="16" />
