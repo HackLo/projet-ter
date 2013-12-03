@@ -430,7 +430,7 @@ footer {
 		color:#FFF;
 		font-family:arial;
 		font-size:11px;
-		border-radius:5px;
+		border-radius:1px;
 		padding-top:10px;
 		border:1px #303030 solid;
 	}
@@ -603,7 +603,7 @@ footer {
 		color:#FFF;
 		font-family:arial;
 		font-size:11px;
-		border-radius:5px;
+		border-radius:1px;
 		padding-top:10px;
 	}
 }
