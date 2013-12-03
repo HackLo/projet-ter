@@ -17,6 +17,12 @@
                 <a href="#" onclick="switchChapitre(9)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(10)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(11)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(12)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(13)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(14)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(15)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(16)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(17)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(2)"><img src="graphics/nav-right.png" alt="Next" /></a>
             </span>
 	  </div>
@@ -29,9 +35,8 @@
 		<div class="chapitreNav">
 			<span>
             	<a href="#" onclick="switchChapitre(1)"><img src="graphics/nav-left.png" alt="Prev" /></a>
-                <a href="#" onclick="switchChapitre(1)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(2)"><img src="graphics/bouton-select.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(3)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(2)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(3)"><img src="graphics/bouton-select.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(4)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(5)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(6)"><img src="graphics/bouton.png" width="12" height="12" /></a>
@@ -40,6 +45,12 @@
                 <a href="#" onclick="switchChapitre(9)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(10)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(11)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(12)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(13)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(14)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(15)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(16)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(17)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(3)"><img src="graphics/nav-right.png" alt="Next" /></a>
             </span>
 		</div>
@@ -63,6 +74,12 @@
                 <a href="#" onclick="switchChapitre(9)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(10)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(11)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(12)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(13)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(14)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(15)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(16)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(17)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(4)"><img src="graphics/nav-right.png" alt="Next" /></a>
             </span>
 		</div>
@@ -86,6 +103,12 @@
                 <a href="#" onclick="switchChapitre(9)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(10)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(11)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(12)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(13)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(14)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(15)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(16)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(17)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(5)"><img src="graphics/nav-right.png" alt="Next" /></a>
             </span>
 		</div>
@@ -109,6 +132,12 @@
                 <a href="#" onclick="switchChapitre(9)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(10)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(11)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(12)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(13)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(14)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(15)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(16)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(17)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(6)"><img src="graphics/nav-right.png" alt="Next" /></a>
             </span>
 		</div>
@@ -132,6 +161,12 @@
                 <a href="#" onclick="switchChapitre(9)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(10)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(11)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(12)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(13)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(14)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(15)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(16)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(17)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(7)"><img src="graphics/nav-right.png" alt="Next" /></a>
             </span>
 		</div>
@@ -155,6 +190,12 @@
                 <a href="#" onclick="switchChapitre(9)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(10)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(11)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(12)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(13)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(14)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(15)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(16)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(17)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(8)"><img src="graphics/nav-right.png" alt="Next" /></a>
             </span>
 		</div>
@@ -178,6 +219,12 @@
                 <a href="#" onclick="switchChapitre(9)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(10)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(11)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(12)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(13)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(14)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(15)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(16)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(17)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(9)"><img src="graphics/nav-right.png" alt="Next" /></a>
             </span>
 		</div>
@@ -201,6 +248,12 @@
                 <a href="#" onclick="switchChapitre(9)"><img src="graphics/bouton-select.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(10)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(11)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(12)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(13)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(14)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(15)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(16)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(17)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(10)"><img src="graphics/nav-right.png" alt="Next" /></a>
             </span>
 		</div>
@@ -212,7 +265,6 @@
 		</div>
 		<div class="chapitreNav">
 			<span>
-            	<a href="#" onclick="switchChapitre(9)"><img src="graphics/nav-left.png" align="Prev" /></a>
                 <a href="#" onclick="switchChapitre(1)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(2)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(3)"><img src="graphics/bouton.png" width="12" height="12" /></a>
@@ -224,6 +276,12 @@
                 <a href="#" onclick="switchChapitre(9)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(10)"><img src="graphics/bouton-select.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(11)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(12)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(13)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(14)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(15)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(16)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(17)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(11)"><img src="graphics/nav-right.png" alt="Next" /></a>
             </span>
 		</div>
@@ -247,6 +305,186 @@
                 <a href="#" onclick="switchChapitre(9)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(10)"><img src="graphics/bouton.png" width="12" height="12" /></a>
                 <a href="#" onclick="switchChapitre(11)"><img src="graphics/bouton-select.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(12)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(13)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(14)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(15)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(16)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(17)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(12)"><img src="graphics/nav-right.png" alt="Next" /></a>
+            </span>
+		</div>
+	</div>
+
+    <div id="chapitre12" class="chapitreInactif divChapitre">
+		<div class="pageLivre">
+		    <?php include_once("pages/chapitre12.php"); ?>
+		</div>
+		<div class="chapitreNav">
+			<span>
+            	<a href="#" onclick="switchChapitre(11)"><img src="graphics/nav-left.png" align="Prev" /></a>
+                <a href="#" onclick="switchChapitre(1)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(2)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(3)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(4)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(5)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(6)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(7)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(8)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(9)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(10)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(11)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(12)"><img src="graphics/bouton-select.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(13)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(14)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(15)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(16)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(17)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(13)"><img src="graphics/nav-right.png" alt="Next" /></a>
+            </span>
+		</div>
+	</div>
+
+    <div id="chapitre13" class="chapitreInactif divChapitre">
+		<div class="pageLivre">
+		    <?php include_once("pages/chapitre13.php"); ?>
+		</div>
+		<div class="chapitreNav">
+			<span>
+            	<a href="#" onclick="switchChapitre(12)"><img src="graphics/nav-left.png" align="Prev" /></a>
+                <a href="#" onclick="switchChapitre(1)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(2)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(3)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(4)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(5)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(6)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(7)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(8)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(9)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(10)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(11)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(12)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(13)"><img src="graphics/bouton-select.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(14)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(15)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(16)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(17)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(14)"><img src="graphics/nav-right.png" alt="Next" /></a>
+            </span>
+		</div>
+	</div>
+
+    <div id="chapitre14" class="chapitreInactif divChapitre">
+		<div class="pageLivre">
+		    <?php include_once("pages/chapitre14.php"); ?>
+		</div>
+		<div class="chapitreNav">
+			<span>
+            	<a href="#" onclick="switchChapitre(13)"><img src="graphics/nav-left.png" align="Prev" /></a>
+                <a href="#" onclick="switchChapitre(1)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(2)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(3)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(4)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(5)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(6)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(7)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(8)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(9)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(10)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(11)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(12)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(13)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(14)"><img src="graphics/bouton-select.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(15)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(16)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(17)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(15)"><img src="graphics/nav-right.png" alt="Next" /></a>
+            </span>
+		</div>
+	</div>
+
+    <div id="chapitre15" class="chapitreInactif divChapitre">
+		<div class="pageLivre">
+		    <?php include_once("pages/chapitre15.php"); ?>
+		</div>
+		<div class="chapitreNav">
+			<span>
+            	<a href="#" onclick="switchChapitre(14)"><img src="graphics/nav-left.png" align="Prev" /></a>
+                <a href="#" onclick="switchChapitre(1)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(2)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(3)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(4)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(5)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(6)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(7)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(8)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(9)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(10)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(11)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(12)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(13)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(14)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(15)"><img src="graphics/bouton-select.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(16)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(17)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(16)"><img src="graphics/nav-right.png" alt="Next" /></a>
+            </span>
+		</div>
+	</div>
+
+    <div id="chapitre16" class="chapitreInactif divChapitre">
+		<div class="pageLivre">
+		    <?php include_once("pages/chapitre16.php"); ?>
+		</div>
+		<div class="chapitreNav">
+			<span>
+            	<a href="#" onclick="switchChapitre(15)"><img src="graphics/nav-left.png" align="Prev" /></a>
+                <a href="#" onclick="switchChapitre(1)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(2)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(3)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(4)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(5)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(6)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(7)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(8)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(9)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(10)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(11)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(12)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(13)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(14)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(15)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(16)"><img src="graphics/bouton-select.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(17)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(17)"><img src="graphics/nav-right.png" alt="Next" /></a>
+            </span>
+		</div>
+	</div>
+
+    <div id="chapitre17" class="chapitreInactif divChapitre">
+		<div class="pageLivre">
+		    <?php include_once("pages/chapitre17.php"); ?>
+		</div>
+		<div class="chapitreNav">
+			<span>
+            	<a href="#" onclick="switchChapitre(16)"><img src="graphics/nav-left.png" align="Prev" /></a>
+                <a href="#" onclick="switchChapitre(1)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(2)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(3)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(4)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(5)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(6)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(7)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(8)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(9)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(10)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(11)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(12)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(13)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(14)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(15)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(16)"><img src="graphics/bouton.png" width="12" height="12" /></a>
+                <a href="#" onclick="switchChapitre(17)"><img src="graphics/bouton-select.png" width="12" height="12" /></a>
             </span>
 		</div>
 	</div>
