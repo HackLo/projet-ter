@@ -330,69 +330,6 @@ h2 {
 }
 
 
-
-#contact {
-	height:775px;
-	width:816px;
-	margin-left:auto;
-	margin-right:auto;
-	margin-bottom:45px;
-	margin-top:45px;
-}
-
-#contact .titre {
-	height:63px;
-	width:816px;
-	text-align:center;
-	font-size: 24px;
-}
-
-#contact .images {
-	height:250px;
-	width:816px;
-}
-
-#contact .images a {
-	color:black;
-}
-
-#contact .images a:hover {
-	color:#999999;
-}
-
-#contact .images .img1 {
-	height:250px;
-	width:272px;
-	float:left;
-	margin-left:auto;
-	margin-right:auto;
-}
-
-#contact .images .img2 {
-	height:250px;
-	width:272px;
-	float:left;
-	margin-left:auto;
-	margin-right:auto;
-}
-
-#contact .images .img3 {
-	height:250px;
-	width:272px;
-	float:left;
-	margin-left:auto;
-	margin-right:auto;
-}
-
-#contact .images img {
-	margin-left:47px;
-}
-
-#contact .formulaire {
-	margin-left:47px;
-}
-
-
 /* ------------------------------ FORMULAIRE DE CONTACT ------------------------------------- */
 
 #votrenom {
@@ -544,6 +481,11 @@ footer {
 		right: 50%;
 		width: 120px;
 	}
+	
+	#auteurs {
+		height:275px;	
+	}
+
 	
 
 	/* ----------------------------------- FOOTER --------------------------- */
