@@ -20,10 +20,10 @@
 		}
 	?>
     <p><?php echo $errorMsg; ?></p>
-	<form id='contact' method="post" action="index.php?page=contact" enctype="multipart/form-data">
-		<p id='obj'>
-			<label for='objet'>Objet de votre message<br>
-  				<input type='text' name='objet' id='objet' tabindex='10' size='30'>
+	<form id="contact" method="post" action="index.php?page=contact" enctype="multipart/form-data">
+		<p id="obj">
+			<label for="objet">Votre nom<br>
+  				<input type="text" name="objet" id="objet" tabindex="10" size="30">
   			</label>
   		</p> 
 
@@ -38,6 +38,6 @@
 				<textarea tabindex="30" rows="10" cols="50" name="message" id="message"></textarea>
 			</label>
 		</p>
-		<input type="submit" value="Envoyer"/>
+		<input type="submit" value="Envoyer" class="envoyer" />
 	</form>
 </div>

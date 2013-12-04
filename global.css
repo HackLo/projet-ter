@@ -329,6 +329,97 @@ h2 {
     height: 100%;
 }
 
+
+
+#contact {
+	height:775px;
+	width:816px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:45px;
+	margin-top:45px;
+}
+
+#contact .titre {
+	height:63px;
+	width:816px;
+	text-align:center;
+	font-size: 24px;
+}
+
+#contact .images {
+	height:250px;
+	width:816px;
+}
+
+#contact .images a {
+	color:black;
+}
+
+#contact .images a:hover {
+	color:#999999;
+}
+
+#contact .images .img1 {
+	height:250px;
+	width:272px;
+	float:left;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#contact .images .img2 {
+	height:250px;
+	width:272px;
+	float:left;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#contact .images .img3 {
+	height:250px;
+	width:272px;
+	float:left;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#contact .images img {
+	margin-left:47px;
+}
+
+#contact .formulaire {
+	margin-left:47px;
+}
+
+
+/* ------------------------------ FORMULAIRE DE CONTACT ------------------------------------- */
+
+#objet {
+	border:2px #2a2b2a solid;
+	background:#f0f0f0;
+}
+
+#mail {
+	border:2px #2a2b2a solid;
+	background:#f0f0f0;
+}
+
+#message {
+	border:2px #2a2b2a solid;
+	background:#f0f0f0;
+}
+
+.envoyer {
+	width:110px; 
+	height:30px;
+	color:#2a2b2a;
+	background:#f0f0f0;
+	border:2px #2a2b2a solid;
+}
+
+
+
 /* ------------------------------ FOOTER ------------------------------------- */
 footer {
 	bottom: 0;
