@@ -21,9 +21,9 @@
 	?>
     <p><?php echo $errorMsg; ?></p>
 	<form id="contact" method="post" action="index.php?page=contact" enctype="multipart/form-data">
-		<p id="obj">
-			<label for="objet">Votre nom<br>
-  				<input type="text" name="objet" id="objet" tabindex="10" size="30">
+		<p id="nom">
+			<label for="nom">Votre nom<br>
+  				<input type="text" name="nom" id="votrenom" tabindex="10" size="30">
   			</label>
   		</p> 
 

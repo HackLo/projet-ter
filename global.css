@@ -395,18 +395,18 @@ h2 {
 
 /* ------------------------------ FORMULAIRE DE CONTACT ------------------------------------- */
 
-#objet {
-	border:2px #2a2b2a solid;
+#votrenom {
+	border:1px #2a2b2a solid;
 	background:#f0f0f0;
 }
 
 #mail {
-	border:2px #2a2b2a solid;
+	border:1px #2a2b2a solid;
 	background:#f0f0f0;
 }
 
 #message {
-	border:2px #2a2b2a solid;
+	border:1px #2a2b2a solid;
 	background:#f0f0f0;
 }
 
@@ -415,7 +415,7 @@ h2 {
 	height:30px;
 	color:#2a2b2a;
 	background:#f0f0f0;
-	border:2px #2a2b2a solid;
+	border:1px #2a2b2a solid;
 }
 
 
