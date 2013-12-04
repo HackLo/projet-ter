@@ -27,7 +27,7 @@
 		<!-- AJOUT DU JAVASCRIPT VIA LES FICHIERS CI-DESSOUS -->
 		<?php include_once("scripts/scripts.php"); ?>
 	</head>
-	<body onresize="location.reload();" onload="">
+	<body onResize="location.href=location.href">
 		<!-- INCLUSION DU HEADER -->
 		<?php include_once("header.php"); ?>
 
