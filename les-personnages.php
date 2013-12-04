@@ -26,7 +26,7 @@
 			  <param name="flashvars" value="mp3=documents/EdGaia.mp3" />
 			</object>
 		</audio><br /><br />
-        Voir le discours d'Ed Gaia <a href="javascript:void(look('Text2Depliant'));" id="a"><img src="graphics/plus.png" alt="+" /></a><br />
+        Voir le discours d'Ed Gaïa <a href="javascript:void(look('Text2Depliant'));" id="a"><img src="graphics/plus.png" alt="+" /></a><br />
   <div id="Text2Depliant" style="display:none">
 			<p>Depuis des dizaines de générations, ma famille s'est illustrée dans la recherche et les sciences. Mes ancêtres furent à l'initiative de la construction du dôme en qualité de biologistes spécialisés dans les écosystèmes artificiels. Naturellement, j'ai suivi la vocation familiale en choisissant le credo de l'agronomie. Ce métier est le trait d'union entre mes deux passions, l'agriculture et la cuisine. S'il m'est aisé de produire et de cuisiner de sains et goûteux produits, je déplore un manque d'adresse pour les relations sociales. A l'instar de mes parents et des leurs avant eux, j'aurais aimé transmettre mes connaissances à une jeune oreille attentive. Trop âgé, je ne suis plus en mesure de procréer mais je ne perds l'espoir de trouver un disciple avant mon dernier souffle.</p>
         </div>     
