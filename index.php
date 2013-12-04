@@ -18,13 +18,16 @@
 		<meta name="keywords" content="nouvelle, ter">
 		<meta name="viewport" content="width=640">
 
+		<link rel="icon" href="graphics/favicon.ico" />
+		<link rel="icon" type="image/png" href="graphics/favicon.png" />
+
 		<!-- LIENS VERS LES FICHIERS CSS -->
 		<link rel="stylesheet" href="global.css">
 
 		<!-- AJOUT DU JAVASCRIPT VIA LES FICHIERS CI-DESSOUS -->
 		<?php include_once("scripts/scripts.php"); ?>
 	</head>
-	<body onresize="reorganiser()" onload="">
+	<body onresize="location.reload();" onload="">
 		<!-- INCLUSION DU HEADER -->
 		<?php include_once("header.php"); ?>
 
