@@ -15,8 +15,9 @@
 
 	<h2>La maison d'Ed Gaïa</h2>
     <p>Acquisition récompensant une longue vie de labeur, la maison d'Ed Gaïa est le parfait exemple des habitats ultra-modernes qui se développent sous le dôme. Ed passe l'essentiel de son temps dans la cuisine, qui fait manifestement l'objet de toutes ses attentions. L'équipement de cette pièce démontre la capacité des habitants du dôme à développer des solutions à leurs besoins les plus hédonistes tout en conservant de profonds savoir-faire : un plan de travail déformable à souhait lui permet d'exécuter n'importe quelle recette et divers légumes, fruits, épices, viandes et poissons remplissent les rangements, formant une source infinie d'inspiration pour cet amoureux de la gastronomie. Les autres pièces ne sont pas en reste, les objets qu'elles contiennent ne manqueront pas de vous étonner.</p>
-  <iframe width="420" height="315" src="//www.youtube.com/embed/fUQ9E-c_b4E?rel=0" frameborder="0" allowfullscreen></iframe><br /><br />
-    
+  <div class="video-container">
+  	<iframe src="//www.youtube.com/embed/fUQ9E-c_b4E?rel=0" frameborder="0" allowfullscreen></iframe><br /><br />
+  </div>  
 
   <h2>Les chiwongas</h2>
   	<img src="graphics/chiwongas.jpg"  alt="Chiwongas" width="239" height="150" class="imagecontenu leftpic" />
