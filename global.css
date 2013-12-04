@@ -295,6 +295,37 @@ h2 {
 	float: right;
 }
 
+.boutonSwitchChapitre {
+	background-image: url('graphics/bouton.png'); 
+	display: inline-block; 
+	float: top; 
+	height: 11px; 
+	margin: 2px;
+	width: 11px;
+}
+.boutonSwitchChapitreActif {
+	background-image: url('graphics/bouton-select.png'); 
+	display: inline-block; 
+	float: top; 
+	height: 11px; 
+	margin: 2px;
+	width: 11px;
+}
+.flecheDrt {
+	background-image: url('graphics/nav-right.png'); 
+	display: inline-block; 
+	float: top; 
+	height: 12px; 
+	width: 14px;
+}
+.flecheGche {
+	background-image: url('graphics/nav-left.png'); 
+	display: inline-block; 
+	float: top; 
+	height: 12px; 
+	width: 14px;
+}
+
 .navGrise {
 	color: gray;
 }
@@ -642,6 +673,13 @@ footer {
 		margin-top:15px;
 		width: 100%;
 		height:100%;
+	}
+
+	.flecheDrt {
+		background-image: url('graphics/nav-right1.png');
+	}
+	.flecheGche {
+		background-image: url('graphics/nav-left1.png');
 	}
 	
 	.partage {

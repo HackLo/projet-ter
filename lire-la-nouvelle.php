@@ -6,12 +6,14 @@
 		</div>
 		<div class="chapitreNav">
 			<span>
-                <a href="#" onclick="switchChapitre(1)"><img src="graphics/bouton-select.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(2)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(3)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(4)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(5)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(2)"><img src="graphics/nav-right.png" alt="Next" /></a>
+				<?php
+					for($i=1 ; $i <= 5 ; $i++) {
+				?>
+						<a href='#' onclick='switchChapitre(<?php echo $i ; ?>)'><div class='boutonSwitchChapitre<?php if ($i==1) echo "Actif"; ?>'></div></a>
+				<?php
+					}
+				?>
+                <a href="#" onclick="switchChapitre(2)"><div class="flecheDrt"></div></a>
             </span>
 	  </div>
 	</div>
@@ -22,30 +24,35 @@
 		</div>
 		<div class="chapitreNav">
 			<span>
-            	<a href="#" onclick="switchChapitre(1)"><img src="graphics/nav-left.png" alt="Prev" /></a>
-                <a href="#" onclick="switchChapitre(1)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(2)"><img src="graphics/bouton-select.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(3)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(4)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(5)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(3)"><img src="graphics/nav-right.png" alt="Next" /></a>
+            	<a href="#" onclick="switchChapitre(1)"><div class="flecheGche"></div></a>
+                <?php
+					for($i=1 ; $i <= 5 ; $i++) {
+				?>
+						<a href='#' onclick='switchChapitre(<?php echo $i ; ?>)'><div class='boutonSwitchChapitre<?php if ($i==2) echo "Actif"; ?>'></div></a>
+				<?php
+					}
+				?>
+                <a href="#" onclick="switchChapitre(3)"><div class="flecheDrt"></div></a>
             </span>
 		</div>
 	</div>
-    
+    
+
 	<div id="chapitre3" class="chapitreInactif divChapitre">
 		<div class="pageLivre">
 			<?php include_once("pages/chapitre3.php"); ?>
 		</div>
 		<div class="chapitreNav">
 			<span>
-            	<a href="#" onclick="switchChapitre(2)"><img src="graphics/nav-left.png" align="Prev" /></a>
-                <a href="#" onclick="switchChapitre(1)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(2)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(3)"><img src="graphics/bouton-select.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(4)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(5)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(4)"><img src="graphics/nav-right.png" alt="Next" /></a>
+            	<a href="#" onclick="switchChapitre(2)"><div class="flecheGche"></div></a>
+                <?php
+					for($i=1 ; $i <= 5 ; $i++) {
+				?>
+						<a href='#' onclick='switchChapitre(<?php echo $i ; ?>)'><div class='boutonSwitchChapitre<?php if ($i==3) echo "Actif"; ?>'></div></a>
+				<?php
+					}
+				?>
+                <a href="#" onclick="switchChapitre(4)"><div class="flecheDrt"></div></a>
             </span>
 		</div>
 	</div>
@@ -56,13 +63,15 @@
 		</div>
 		<div class="chapitreNav">
 			<span>
-            	<a href="#" onclick="switchChapitre(3)"><img src="graphics/nav-left.png" align="Prev" /></a>
-                <a href="#" onclick="switchChapitre(1)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(2)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(3)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(4)"><img src="graphics/bouton-select.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(5)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(5)"><img src="graphics/nav-right.png" alt="Next" /></a>
+            	<a href="#" onclick="switchChapitre(3)"><div class="flecheGche"></div></a>
+                <?php
+					for($i=1 ; $i <= 5 ; $i++) {
+				?>
+						<a href='#' onclick='switchChapitre(<?php echo $i ; ?>)'><div class='boutonSwitchChapitre<?php if ($i==4) echo "Actif"; ?>'></div></a>
+				<?php
+					}
+				?>
+                <a href="#" onclick="switchChapitre(5)"><div class="flecheDrt"></div></a>
             </span>
 		</div>
 	</div>
@@ -73,12 +82,14 @@
 		</div>
 		<div class="chapitreNav">
 			<span>
-            	<a href="#" onclick="switchChapitre(4)"><img src="graphics/nav-left.png" align="Prev" /></a>
-                <a href="#" onclick="switchChapitre(1)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(2)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(3)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(4)"><img src="graphics/bouton.png" width="12" height="12" /></a>
-                <a href="#" onclick="switchChapitre(5)"><img src="graphics/bouton-select.png" width="12" height="12" /></a>
+            	<a href="#" onclick="switchChapitre(4)"><div class="flecheGche"></div></a>
+                <?php
+					for($i=1 ; $i <= 5 ; $i++) {
+				?>
+						<a href='#' onclick='switchChapitre(<?php echo $i ; ?>)'><div class='boutonSwitchChapitre<?php if ($i==5) echo "Actif"; ?>'></div></a>
+				<?php
+					}
+				?>
             </span>
 		</div>
 	</div>

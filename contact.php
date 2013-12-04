@@ -3,6 +3,7 @@
     <?php
     	ini_set("display_errors",0);error_reporting(0);
 		$errorMsg = '';
+		$nom = filter_input(INPUT_POST, 'nom', FILTER_SANITIZE_SPECIAL_CHARS) ;
 		$mail = filter_input(INPUT_POST, 'adressemail', FILTER_VALIDATE_EMAIL) ;
 		$objet = filter_input(INPUT_POST, 'objet', FILTER_SANITIZE_SPECIAL_CHARS) ;
 		$message = filter_input(INPUT_POST, 'message', FILTER_SANITIZE_SPECIAL_CHARS) ;
