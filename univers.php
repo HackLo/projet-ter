@@ -7,9 +7,9 @@
 
 
 	<h2>Le dôme</h2>
-    <img src="graphics/dome1.jpg" alt="Dôme" width="220" height="145" class ="imagecontenu leftpic" /><img src="graphics/dome2.jpg" alt="Dôme" width="220" height="145" class="imagecontenu rightpic" />
+    <img src="graphics/dome1.jpg" alt="Dôme" width="220" height="97" class ="imagecontenu leftpic" /><img src="graphics/dome2.jpg" alt="Dôme" width="220" height="97" class="imagecontenu rightpic" />
 	<p>À l'intérieur du dôme, une communauté vivant en autarcie s'était préparée à la catastrophe, offrant à ses habitants une solution sage et viable pour leur survie sur le long terme. Le Dôme les protège, tandis qu'un soleil synthétique, organe vital de la structure, les alimente en énergie et leur offre un écosystème florissant que le reste du monde croyait à jamais disparu.</p>
-    <img src="graphics/dome3.jpg" alt="Dôme" width="220" height="97" class ="imagecontenu leftpic intext" /><img src="graphics/dome4.jpg" alt="Dôme" width="220" height="97" class="imagecontenu rightpic intext" />
+    <img src="graphics/dome3.jpg" alt="Dôme" width="220" height="145" class ="imagecontenu leftpic intext" /><img src="graphics/dome4.jpg" alt="Dôme" width="220" height="145" class="imagecontenu rightpic intext" />
     <p>Le peuple est cultivé, éduqué aux pratiques respectueuses de son environnement&nbsp;: développement durable, intégration adéquate de la technologie dans le quotidien et maîtrise de la consommation d'énergie définissent leur mode de vie. C'est Ed Gaïa, un vieil homme parmi d'autres, qui se charge d'initier Raynor à ce nouveau monde.</p><br />
 
 
