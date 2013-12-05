@@ -1,8 +1,8 @@
-<div class="headerChapitre1">
+<div class="headerChapitre1Synopsis">
 	<div>
 		<h1>Culin'R</h1>
 	</div>
-	<div class="headerChapitre1Synopsis">
+	<div class="lienChapitre1Synopsis">
 		<p><a href="index.php?page=synopsis" class="nonSouligne">Lire le synopsis</a></p>
 	</div>
 </div>

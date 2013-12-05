@@ -287,11 +287,11 @@ h2 {
 	text-align: center;
 }
 
-.headerChapitre1 div {
+.headerChapitre1Synopsis div {
 	display : inline-block;
 }
 
-.headerChapitre1Synopsis {
+.lienChapitre1Synopsis {
 	float: right;
 }
 
