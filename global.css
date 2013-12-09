@@ -530,6 +530,7 @@ footer {
 	
 	.infobulle {
 		padding-left: 40px;
+		text-decoration: none;
 	}
 	
 	a.infobulle span {
