@@ -23,7 +23,7 @@
 					</li>
 					<li><a href="index.php?page=et-apres">Et après</a></li>
 					<li><a href="index.php?page=auteurs">Les auteurs</a></li>
-		            <li><a href="index.php?page=inspirations">Inspirations</a></li>
+		            <li><a href="index.php?page=inspirations">Les inspirations</a></li>
 				</ul>
 			</nav>
 		</div>
