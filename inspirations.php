@@ -1,6 +1,6 @@
 <div id="wrapper">
 
-	<h1>Inspirations</h1>
+	<h1>Les inspirations</h1>
   
 	<div class="blocleft">
 		<h2>Inception</h2>
