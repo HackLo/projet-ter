@@ -1,7 +1,7 @@
 <div id="wrapper">
     <h1>Les auteurs</h1>
 
-	<div id="auteurs"><img src="graphics/les-auteurs.jpg" alt="Les auteurs" width="448" height="223" class="imagecontenu" /></div>
+	<div id="banniere"><img src="graphics/les-auteurs.jpg" alt="Les auteurs" width="448" height="223" class="imagecontenu" /></div>
     
 	<blockquote>
     	<img src="graphics/guillemets1.png" alt="«" width="23" height="16" /> Je pense que dans les futures évolutions de la cuisine et de la gastronomie, il sera important de laisser une place à la nourriture et aux façons de cuisiner actuelles. De plus, il faut s'efforcer à préserver les bienfaits que l'agriculture et la culture saine des aliments apportent. L'avenir de la gastronomie ne passe pas forcément par la lyophilisation ou les pillules ! <img src="graphics/guillemets2.png" alt="»" width="23" height="16" />

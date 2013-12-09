@@ -1,7 +1,7 @@
 <div id="wrapper">
     <h1>Et après</h1>
-	
-	<h2>Proposer une suite à la nouvelle</h2>
+	<div id="banniere"><img src="graphics/etapres.jpg" width="448" alt="Et après" class="imagecontenu" /></div>
+<h2>Proposer une suite à la nouvelle</h2>
 	<p>Déçu d’avoir terminé sur une note salée ? Tu reprendrais bien un morceau des aventures de Raynor Hell ? Arme-toi de ton clavier et propose-nous ta suite pour la nouvelle !</p> 
 	<p>Notre héros sera-t-il capable de continuer son initiation à la gastronomie ? Son errance sera-t-elle l’occasion d’une découverte encore plus incroyable ? Va-t-il un jour pouvoir retourner chez lui pour transmettre aux siens ce qu’il a appris ? C’est à toi décider !</p></br>
 
