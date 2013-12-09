@@ -1,4 +1,4 @@
-<div align="center">*</div>
+<p class="etoileSeparation">*</p>
 
 <p>À partir de ce moment-là, je m'intéressais sans réserve à cette cuisine autochtone. Je me mis à accompagner mon hôte dans ses activités « d'agronome ». C'est à cette occasion que je découvris l'écosystème du dôme, même si au début j'en profitais surtout pour étudier à la dérobée ce fabuleux soleil qui pourrait peut-être sauver mon peuple.<br />
 L'attitude d'Ed Gaïa à l'égard de ses cultures était une source constante d'étonnement : avec quelle délicatesse il touchait les plantes ! Comme si leur valeur était aussi inestimable que celle de l'uranium.<br />
@@ -17,7 +17,7 @@ Un constat s'imposa alors à mon esprit : la nourriture brute peut avoir du goû
 Quel choc ! Cela bouleversait ma conception du monde ! Et si la véritable clé de la survie n'était pas d'utiliser nos technologies pour nous adapter mais pour protéger notre environnement ? Et si ce mode de vie nous permettait de retrouver la douceur de vivre tant vantée par les vieilles légendes ?<br />
 Dans tous les cas, cette découverte attisa ma curiosité comme jamais. Chaque jour, Ed Gaïa me faisait découvrir des goûts que je ne connaissais pas. Mais je voulais en savoir plus.</p>
 
-<div align="center">*</div>
+<p class="etoileSeparation">*</p>
 
 <p>Quand je n'accompagnais pas Ed Gaïa, je passais mon temps à étudier l'hologramme que j'avais trouvé. Un soir, je me décidai à le lui montrer.<br />
 — Tu as trouvé mon vieil holographe ? C'est parfait ! Il y a plein de choses à découvrir pour toi ! s'exclama-t-il.<br />

@@ -9,11 +9,11 @@
 				<?php
 					for($i=1 ; $i <= 5 ; $i++) {
 				?>
-						<a href='#' onclick='switchChapitre(<?php echo $i ; ?>)'><div class='boutonSwitchChapitre<?php if ($i==1) echo "Actif"; ?>'></div></a>
+						<a href='#' onclick='switchChapitre(<?php echo $i ; ?>)'><span class='boutonSwitchChapitre<?php if ($i==1) echo "Actif"; ?>'></span></a>
 				<?php
 					}
 				?>
-                <a href="#" onclick="switchChapitre(2)"><div class="flecheDrt"></div></a>
+                <a href="#" onclick="switchChapitre(2)"><span class="flecheDrt"></span></a>
             </span>
 	  </div>
 	</div>
@@ -24,19 +24,20 @@
 		</div>
 		<div class="chapitreNav">
 			<span>
-            	<a href="#" onclick="switchChapitre(1)"><div class="flecheGche"></div></a>
+            	<a href="#" onclick="switchChapitre(1)"><span class="flecheGche"></span></a>
                 <?php
 					for($i=1 ; $i <= 5 ; $i++) {
 				?>
-						<a href='#' onclick='switchChapitre(<?php echo $i ; ?>)'><div class='boutonSwitchChapitre<?php if ($i==2) echo "Actif"; ?>'></div></a>
+						<a href='#' onclick='switchChapitre(<?php echo $i ; ?>)'><span class='boutonSwitchChapitre<?php if ($i==2) echo "Actif"; ?>'></span></a>
 				<?php
 					}
 				?>
-                <a href="#" onclick="switchChapitre(3)"><div class="flecheDrt"></div></a>
+                <a href="#" onclick="switchChapitre(3)"><span class="flecheDrt"></span></a>
             </span>
 		</div>
 	</div>
-    
+    
+
 
 	<div id="chapitre3" class="chapitreInactif divChapitre">
 		<div class="pageLivre">
@@ -44,15 +45,15 @@
 		</div>
 		<div class="chapitreNav">
 			<span>
-            	<a href="#" onclick="switchChapitre(2)"><div class="flecheGche"></div></a>
+            	<a href="#" onclick="switchChapitre(2)"><span class="flecheGche"></span></a>
                 <?php
 					for($i=1 ; $i <= 5 ; $i++) {
 				?>
-						<a href='#' onclick='switchChapitre(<?php echo $i ; ?>)'><div class='boutonSwitchChapitre<?php if ($i==3) echo "Actif"; ?>'></div></a>
+						<a href='#' onclick='switchChapitre(<?php echo $i ; ?>)'><span class='boutonSwitchChapitre<?php if ($i==3) echo "Actif"; ?>'></span></a>
 				<?php
 					}
 				?>
-                <a href="#" onclick="switchChapitre(4)"><div class="flecheDrt"></div></a>
+                <a href="#" onclick="switchChapitre(4)"><span class="flecheDrt"></span></a>
             </span>
 		</div>
 	</div>
@@ -63,15 +64,15 @@
 		</div>
 		<div class="chapitreNav">
 			<span>
-            	<a href="#" onclick="switchChapitre(3)"><div class="flecheGche"></div></a>
+            	<a href="#" onclick="switchChapitre(3)"><span class="flecheGche"></span></a>
                 <?php
 					for($i=1 ; $i <= 5 ; $i++) {
 				?>
-						<a href='#' onclick='switchChapitre(<?php echo $i ; ?>)'><div class='boutonSwitchChapitre<?php if ($i==4) echo "Actif"; ?>'></div></a>
+						<a href='#' onclick='switchChapitre(<?php echo $i ; ?>)'><span class='boutonSwitchChapitre<?php if ($i==4) echo "Actif"; ?>'></span></a>
 				<?php
 					}
 				?>
-                <a href="#" onclick="switchChapitre(5)"><div class="flecheDrt"></div></a>
+                <a href="#" onclick="switchChapitre(5)"><span class="flecheDrt"></span></a>
             </span>
 		</div>
 	</div>
@@ -82,11 +83,11 @@
 		</div>
 		<div class="chapitreNav">
 			<span>
-            	<a href="#" onclick="switchChapitre(4)"><div class="flecheGche"></div></a>
+            	<a href="#" onclick="switchChapitre(4)"><span class="flecheGche"></span></a>
                 <?php
 					for($i=1 ; $i <= 5 ; $i++) {
 				?>
-						<a href='#' onclick='switchChapitre(<?php echo $i ; ?>)'><div class='boutonSwitchChapitre<?php if ($i==5) echo "Actif"; ?>'></div></a>
+						<a href='#' onclick='switchChapitre(<?php echo $i ; ?>)'><span class='boutonSwitchChapitre<?php if ($i==5) echo "Actif"; ?>'></span></a>
 				<?php
 					}
 				?>

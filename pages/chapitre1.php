@@ -22,7 +22,7 @@ Durant un demi-millénaire nous avons rongé le sol pour en extraire ce précieu
 
 <p>De retour dans nos contrées sordides, je rédigeais un rapport d'exploration. J'y décrivais les champs de blé et de tournesol, les forêts centenaires, les chevaux au galop dans les prairies, ce soleil irréel et ce dôme infrangible sous lequel la vie avait germé. La nouvelle eut un fort retentissement. Mon peuple vit en ce dôme la source d'énergie indispensable à sa survie, l'alternative à l'uranium dont les ressources manquaient cruellement. Le lendemain je reçus l'ordre de réunir mon unité armée pour créer une brèche à la surface de ce dôme, nous y introduire et mettre la main sur ce soleil fabuleux. Nous partîmes le soir même avec la ferme conviction de revenir en héros.</p>
 
-<div align="center">* </div>
+<p class="etoileSeparation">*</p>
 
 <p>De nouveau au pied du dôme, nous installions une énorme charge explosive sur son enveloppe translucide. Nous ignorions de quelle matière il était constitué, s'il résisterait à la puissance de l'explosion. Nous reculions d'un bon kilomètre pour nous épargner la déflagration.</p>
 

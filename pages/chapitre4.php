@@ -28,7 +28,7 @@ Sa virtuosité derrière les fourneaux me parut redoutable. J'avais alors l'étr
 <p>Pas moins d'une vingtaine de minutes plus tard nous étions à table. Il me laissa commencer. J'avoue mon incapacité à bien retranscrire la sensation que j'eus à la dégustation de ce premier « vrai » plat. Ce fût un choc plutôt violent après trente années d'alimentation artificielle. Toutes mes capacités gustatives furent éveillées à la première bouchée, et je ne pris pas longtemps à dévorer le contenu de mon assiette.<br />
 Il s'agit également du premier plat d'une longue liste de recettes dans lesquelles je me suis de plus en plus impliqué.</p>
 
-<div align="center">*</div>
+<p class="etoileSeparation">*</p>
 
 <p>Quelques temps plus tard, je me sentais déjà mieux. Ma fatigue commençait à s'estomper. Mes blessures ne me faisaient plus mal et je pouvais bouger comme auparavant. Je devais m'en aller retrouver mon peuple et leur montrer tout ce que j'avais pu découvrir ici. <br />
 Je remerciai Ed Gaïa de m'avoir montré sa manière de vivre, de manger. Se nourrir, non pas pour survivre mais aussi pour ressentir du plaisir était une expérience inédite. </p>

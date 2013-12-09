@@ -7,7 +7,7 @@ Mais un des hommes me coupa :<br />
 Malgré l'espoir d'améliorer la vie de mon peuple, je partis. </p>
 <p>Rejeté par les miens, je décidai de retourner chez mon ami Ed Gaïa. En quittant définitivement la colonie, je découvris sur mon chemin des champignons qui ressemblaient à ceux que j'avais vu sur l'hologramme. Je les ramassai soigneusement en espérant faire plaisir à mon mentor.</p>
 
-<div align="center">*</div>
+<p class="etoileSeparation">*</p>
 
 <p>Enfin de retour, Ed Gaïa me souhaita la bienvenue comme un frère. Pendant une longue heure, je lui narrai mon retour houleux, les disputes avec mes pairs et mes doutes sur ce que le futur me réservait. Projetant de lui faire une surprise, je lui demandai de me laisser la cuisine pour préparer un plat à ma façon. <br />
 Je me plongeais dans les ustensiles pour oublier mon exil forcé. Je préparai la recette du velouté en incluant mes champignons. À ma connaissance, le jus de ce champignon était utilisé pour l'enrobage de nos gélules protéinées ; j'ignorais si c'était pertinent de l'inclure, mais j'espérais un résultat fructueux.</p>
@@ -21,7 +21,7 @@ Je ne tins pas plus de quelques bouchées avant de lui demander son avis :<br />
 — J'ai rajouté des champignons de chez moi dedans !<br />
 — Ah d'accord, je me demandais d'où venait cette amertume.</p>
 
-<div align="center">*</div>
+<p class="etoileSeparation">*</p>
 
 <p>Le lendemain de notre repas, j'allais le voir. Il était dans sa chambre et n'avait pas l'air d'être déjà levé. Lorsque j'entrai, il était dans son lit, il soupira lourdement puis se mît à marmotter quelque chose d'incompréhensible. De cette frénésie, je compris seulement qu'il souffrait d'une intense douleur au ventre tétanisant tout son corps. Effrayé de le voir en pareil état, je pensais à tout ce qu'on avait fait ensemble durant ces jours et surtout à notre dernier repas. Je cherchais mes mots quand Ed Gaïa susurra :<br />
 — C'est seulement maintenant que je me rends compte de la bêtise qu'on a fait. Ce repas…<br />
