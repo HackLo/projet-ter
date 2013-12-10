@@ -18,6 +18,7 @@
 		<meta name="keywords" content="nouvelle, ter">
 		<meta name="viewport" content="width=640">
 
+		<!-- FAVICON -->
 		<link rel="icon" href="graphics/favicon.ico" />
 		<link rel="icon" type="image/png" href="graphics/favicon.png" />
 
@@ -33,7 +34,7 @@
 
 		<!-- INCLUSION DU CONTENU -->
 		<?php 
-			
+			/* Choix de la page */
 			switch ($page) {
 				case 'accueil':
 					include_once("accueil.php"); 
