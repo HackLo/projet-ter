@@ -95,7 +95,6 @@
 		</div>
 	</div>
     
-	
 	<div class="partage">
 		<div class="partagewrapper">
 			<!-- Partage sur Twitter -->

@@ -5,10 +5,14 @@
             <h1>Synopsis</h1>
         </div>
         <div class="lienChapitre1Synopsis">
-            <p><a href="index.php?page=lireN" class="nonSouligne">Lire la nouvelle</a></p>
+            <p>
+                <a href="index.php?page=lireN" class="nonSouligne">Lire la nouvelle</a>
+            </p>
         </div>
 	</div>
-    <div id="banniere"><img src="graphics/synopsis.jpg" width="448" alt="Synopsis" class="imagecontenu" /></div>
+    <div id="banniere">
+        <img src="graphics/synopsis.jpg" width="448px" alt="Synopsis" class="imagecontenu" />
+    </div>
     
 	<p>Que feriez-vous si la Terre telle que vous la connaissez venait à disparaître, ravagée par l’éruption d’un volcan ? Réussiriez-vous à préserver un peu de douceur de vivre ou seriez-vous happé par une lutte perpétuelle avec la nature pour survivre ?</p> 
 	<p>Né à une époque où l’Homme ne peut subsister qu’avec des organes modifiés, le Général Raynor Hell croit trouver le graal lorsqu’il tombe nez à nez avec un dôme aux vastes espaces verdoyants éclairés par un soleil éblouissant. Chargé de repérer une source d’énergie capable de sauver son peuple de l’extinction, l’humanoïde n’imaginait pas une seule seconde que sa trouvaille allait être tout autre.</p>
